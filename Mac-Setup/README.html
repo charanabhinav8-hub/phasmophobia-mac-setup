@@ -1,0 +1,337 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Phasmophobia on the M4 MacBook Pro — setup guide</title>
+<style>
+* { box-sizing: border-box; }
+body { margin: 0; color: #243349; background: #f4f6f9; font: 17px/1.65 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+main { max-width: 900px; margin: 0 auto; padding: 44px 48px 80px; background: white; min-height: 100vh; }
+h1,h2,h3 { color: #153c63; line-height: 1.2; }
+h1 { font-size: clamp(1.8rem, 5vw, 2.65rem); letter-spacing: -.035em; margin-top: 0; }
+h2 { font-size: 1.5rem; margin: 2.6em 0 .9em; padding-top: .4em; }
+h3 { font-size: 1.15rem; margin: 1.8em 0 .7em; }
+p,li { max-width: 76ch; }
+li { margin: .45em 0; }
+a { color: #145cab; text-underline-offset: .18em; }
+a:hover { color: #063670; }
+a:focus-visible,summary:focus-visible { outline: 3px solid #bb750b; outline-offset: 4px; }
+pre { padding: 18px; overflow-x: auto; border: 1px solid #d9e1eb; border-radius: 6px; background: #f2f5f9; font-size: .87em; line-height: 1.55; }
+code { font-family: ui-monospace, "SFMono-Regular", Consolas, monospace; overflow-wrap: anywhere; }
+p code,li code,td code { background: #f1f4f8; padding: .06em .2em; border-radius: 3px; font-size: .91em; }
+table { width: 100%; border-collapse: collapse; font-size: .94em; }
+th,td { border: 1px solid #d7dfeb; padding: 12px; text-align: left; vertical-align: top; }
+th { background: #edf2f8; }
+td:first-child { width: 31%; }
+details { margin: 1.5em 0 2em; padding: 14px 20px; background: #edf2f8; border-radius: 6px; }
+summary { cursor: pointer; color: #153c63; font-weight: 600; }
+.toc { font-size: .92em; }
+.toc li { margin: .25em 0; }
+footer { margin-top: 4em; font-size: .84em; color: #526379; }
+@media (max-width: 600px) { main { padding: 28px 20px 50px; } body { font-size: 16px; } th,td { padding: 8px; } }
+@media print { body,main { background: white; } main { max-width: none; padding: 0; } details { display: none; } h2,h3 { break-after: avoid; } pre,table { break-inside: avoid; } a { color: inherit; } }
+</style></head><body><main>
+<details><summary>Jump to a step</summary><div class="toc">
+<ul>
+<li><a href="#run-phasmophobia-on-the-m4-macbook-pro">Run Phasmophobia on the M4 MacBook Pro</a><ul>
+<li><a href="#what-you-will-do">What you will do</a></li>
+<li><a href="#1-check-the-mac-before-copying-anything">1. Check the Mac before copying anything</a></li>
+<li><a href="#2-put-both-folders-on-the-mac">2. Put both folders on the Mac</a><ul>
+<li><a href="#on-the-windows-pc">On the Windows PC</a></li>
+<li><a href="#on-the-mac">On the Mac</a></li>
+</ul>
+</li>
+<li><a href="#3-check-that-the-game-transferred-correctly">3. Check that the game transferred correctly</a></li>
+<li><a href="#4-run-the-mac-setup">4. Run the Mac setup</a><ul>
+<li><a href="#if-double-clicking-a-command-does-not-work">If double-clicking a .command does not work</a></li>
+</ul>
+</li>
+<li><a href="#5-install-and-sign-in-to-windows-steam-in-this-wrapper">5. Install and sign in to Windows Steam in this wrapper</a><ul>
+<li><a href="#if-valve-has-updated-the-steam-installer">If Valve has updated the Steam installer</a></li>
+</ul>
+</li>
+<li><a href="#6-launch-the-game-on-the-mac">6. Launch the game on the Mac</a></li>
+<li><a href="#7-test-multiplayer-in-this-order">7. Test multiplayer in this order</a></li>
+<li><a href="#8-if-something-fails">8. If something fails</a><ul>
+<li><a href="#open-sikarugirs-configuration-window">Open Sikarugir's configuration window</a></li>
+<li><a href="#read-only-setup-check">Read-only setup check</a></li>
+</ul>
+</li>
+<li><a href="#9-what-to-send-back-after-the-test">9. What to send back after the test</a></li>
+<li><a href="#what-has-been-checked-so-far">What has been checked so far</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</details><h1 id="run-phasmophobia-on-the-m4-macbook-pro">Run Phasmophobia on the M4 MacBook Pro</h1>
+<p>Use <strong>Sikarugir</strong>. This is the single compatibility route used by this kit. It creates a Mac app that runs the existing Windows game on the Mac itself. Your three Windows PCs can keep playing independently.</p>
+<p><strong>Status: setup prepared; the Mac game and multiplayer test are still pending.</strong> The installer and file checks have been checked on Windows. Nobody has run this package on your friend's M4 during this session. Follow the final test checklist before calling it working.</p>
+<p>The compatibility software costs ₹0. This ZIP contains setup scripts and instructions, <strong>not the game</strong>. It does not supply a Steam account or game ownership. Official Steam multiplayer requires the required game entitlement and successful sign-in. The supplied Windows folder includes a custom <code>Launcher.exe</code> and additional multiplayer components; their Mac compatibility is unverified.</p>
+<h2 id="what-you-will-do">What you will do</h2>
+<ol>
+<li>Put the complete game folder and this setup folder on the Mac.</li>
+<li>Run <code>Setup-Mac.command</code> to prepare Sikarugir and create <code>Phasmophobia.app</code>.</li>
+<li>Run <code>Steam-Mac.command</code> to install/open <strong>Windows Steam inside that same app</strong>, then sign in.</li>
+<li>Open <code>Phasmophobia.app</code> and test the game with the Windows players.</li>
+</ol>
+<p>You do not need a browser host, a spare Windows PC, Homebrew, a virtual machine, router port forwarding, or a paid compatibility app. This runs locally on macOS; it is not a browser port or a native Mac rebuild.</p>
+<h2 id="1-check-the-mac-before-copying-anything">1. Check the Mac before copying anything</h2>
+<ol>
+<li>On the Mac, choose <strong>Apple menu → About This Mac</strong>.</li>
+<li>Confirm it says <strong>Apple M4</strong>. This kit targets Apple Silicon; your M4 MacBook Pro is the intended hardware.</li>
+<li>Confirm <strong>macOS 14.6 or later</strong>. If it is older, use Apple's normal Software Update before continuing.</li>
+<li>Keep the Mac plugged into power and connected to the Internet during setup.</li>
+<li>Allow approximately <strong>60 GB of free space before copying the game</strong> onto the internal disk. The current game folder is about <strong>44.8 GB (41.7 GiB)</strong>. Sikarugir, its downloads, the Windows environment, and Steam need additional space. Setup checks for at least 4 GiB free for the initial wrapper; Steam updates and saves need space too.</li>
+<li>If the game will stay on an external SSD, keep that SSD connected whenever you play. An existing APFS or exFAT drive can hold the large files. FAT32 cannot hold the largest game file, which exceeds 4 GB. Do not erase a drive just to follow this guide.</li>
+</ol>
+<h2 id="2-put-both-folders-on-the-mac">2. Put both folders on the Mac</h2>
+<h3 id="on-the-windows-pc">On the Windows PC</h3>
+<ol>
+<li>Locate the <strong>entire</strong> <code>Phasmophobia</code> folder inside this project.</li>
+<li>It must contain <code>Phasmophobia.exe</code>, <code>UnityPlayer.dll</code>, <code>GameAssembly.dll</code>, and the complete <code>Phasmophobia_Data</code> folder. Keep the other supplied files together too.</li>
+<li>Transfer that complete folder to the Mac using your existing storage or file-transfer method. Transferring only an <code>.exe</code> will not work.</li>
+<li>Transfer <code>Phasmophobia-Mac-Setup.zip</code> to the Mac as well. The small setup ZIP does not replace the roughly 45 GB game folder.</li>
+</ol>
+<h3 id="on-the-mac">On the Mac</h3>
+<ol>
+<li>Open <strong>Finder</strong>.</li>
+<li>Choose <strong>Go → Home</strong>.</li>
+<li>Create a folder named <strong>Games</strong> if you do not already have one.</li>
+<li>Put the complete <code>Phasmophobia</code> game folder in <code>Games</code>.</li>
+<li>Double-click <code>Phasmophobia-Mac-Setup.zip</code> to extract it.</li>
+<li>Put the extracted <strong>Mac-Setup</strong> folder in <code>Games</code>, beside <code>Phasmophobia</code>.</li>
+</ol>
+<p>The result should look like this:</p>
+<pre><code class="language-text">Your home folder/
+  Games/
+    Phasmophobia/
+      Launcher.exe                 (present in the supplied copy)
+      Phasmophobia.exe
+      UnityPlayer.dll
+      GameAssembly.dll
+      Phasmophobia_Data/
+      ...all the other game files...
+    Mac-Setup/
+      README.md
+      Setup-Mac.command
+      Steam-Mac.command
+      Verify-Game.command
+      scripts/
+      ...the other setup files...
+</code></pre>
+<p>You can use another location. If the folders are not beside each other, setup asks you to choose the game folder. Keep the full <code>Mac-Setup</code> folder together; its commands need the <code>scripts</code> folder.</p>
+<h2 id="3-check-that-the-game-transferred-correctly">3. Check that the game transferred correctly</h2>
+<ol>
+<li>Open the <strong>Mac-Setup</strong> folder.</li>
+<li>Double-click <strong>Verify-Game.command</strong>.</li>
+<li>If prompted, choose the folder containing <code>Phasmophobia.exe</code>.</li>
+<li>Wait for the six core files to report <code>OK</code> and for the message that the core build matches the recorded Windows copy.</li>
+<li>If a file says <code>FAILED</code> or is missing, finish or repeat the transfer before continuing.</li>
+</ol>
+<p>This quick check compares six important files. To check <strong>all 602 recorded files</strong>, open Terminal and run:</p>
+<pre><code class="language-bash">bash &quot;$HOME/Games/Mac-Setup/Verify-Game.command&quot; --full
+</code></pre>
+<p>The full check reads approximately 42 GiB and may take several minutes. It leaves the game unchanged. It excludes Windows redistributable installers, screenshots, logs, and mutable launcher settings. These fingerprints compare against the local Windows copy used to prepare this kit; they do not certify publisher authenticity or prove that multiplayer works. A later legitimate game update will change the fingerprints.</p>
+<h2 id="4-run-the-mac-setup">4. Run the Mac setup</h2>
+<ol>
+<li>Double-click <strong>Setup-Mac.command</strong>.</li>
+<li>A Terminal window opens. Leave it open while setup is running.</li>
+<li>If asked to choose a folder, select the complete <strong>Phasmophobia</strong> folder, not just the data folder or an archive.</li>
+<li>If Rosetta 2 is missing, setup starts Apple's Rosetta installer. Read and answer Apple's license prompt. If Apple asks for an administrator password, your friend enters it themselves. Do not add <code>sudo</code> to this setup command.</li>
+<li>Let setup download and verify the Sikarugir components. A checksum mismatch stops installation; it is not a successful install.</li>
+<li>Wait for creation of the Windows environment. Complete any Wine installation dialog that appears. Initial setup can take several minutes; do not close the window while files are being created.</li>
+<li>Continue only once setup explicitly reports that the wrapper has been prepared. Finder will show <strong>Phasmophobia.app</strong>.</li>
+</ol>
+<p>Setup uses these pinned components from the official Sikarugir GitHub organization:</p>
+<ul>
+<li>Sikarugir Creator <strong>1.0.2</strong>.</li>
+<li>Sikarugir Template <strong>1.0.21</strong>.</li>
+<li>Wine engine <strong>WS12WineSikarugir11.0_1</strong>.</li>
+<li>The template's default <strong>DXMT</strong> renderer for DirectX 11.</li>
+</ul>
+<p>Setup creates the app here:</p>
+<pre><code class="language-text">~/Applications/Sikarugir/Phasmophobia.app
+</code></pre>
+<p>It links to your existing game folder instead of making a second 45 GB copy. <strong>Keep the game folder in its chosen location.</strong> Moving the app alone to another computer does not transfer the game.</p>
+<p>For this supplied folder, setup selects <code>Launcher.exe</code> because that is its Windows entry point. For a folder without that launcher, it selects <code>Phasmophobia.exe</code>. It sets the game's working directory and does not modify the game binaries or add DLL overrides.</p>
+<h3 id="if-double-clicking-a-command-does-not-work">If double-clicking a <code>.command</code> does not work</h3>
+<p>Open <strong>Applications → Utilities → Terminal</strong>. Type <code>bash</code> followed by one space, drag the desired <code>.command</code> file from Finder into Terminal, then press <strong>Return</strong>. This also handles a path containing spaces and does not require changing executable permissions.</p>
+<p>For the exact folder arrangement above, you can instead paste:</p>
+<pre><code class="language-bash">bash &quot;$HOME/Games/Mac-Setup/Setup-Mac.command&quot;
+</code></pre>
+<p>Use the generated setup command from this kit. If macOS displays a security or approval dialog, review what it names and follow the normal app-specific approval process for the software you intended to open. Do not disable Gatekeeper or antivirus globally.</p>
+<h2 id="5-install-and-sign-in-to-windows-steam-in-this-wrapper">5. Install and sign in to Windows Steam in this wrapper</h2>
+<p><strong>The Steam application for macOS is not enough for this step.</strong> The Windows game needs the Windows Steam client in the same Sikarugir Windows environment.</p>
+<ol>
+<li>In <strong>Mac-Setup</strong>, double-click <strong>Steam-Mac.command</strong>.</li>
+<li>On the first run, it opens Valve's official Windows Steam installer inside the prepared <code>Phasmophobia.app</code> environment.</li>
+<li>Follow the Steam installer. Keep its default installation folder:</li>
+</ol>
+<p><code>text
+   C:\Program Files (x86)\Steam</code></p>
+<ol>
+<li>On the installer's final screen, <strong>uncheck “Run Steam” before clicking Finish</strong>. This lets the installer close completely; the helper will start Steam separately. Leaving that box checked can make the helper wait while Steam remains open.</li>
+<li>Let the helper open Steam and let Steam update. If it does not open after installation, run <strong>Steam-Mac.command</strong> again. Keep its Terminal window open while Steam is in use.</li>
+<li>Your friend signs in to <strong>their own Steam account</strong>, including Steam Guard if requested. The kit cannot perform or bypass sign-in.</li>
+<li>Keep Windows Steam running while starting the game.</li>
+<li>If an official Steam installation reports the game is not owned or is missing from the library, resolve that through Steam. Installing this free compatibility tool does not unlock the game.</li>
+</ol>
+<p>For an official Steam copy, launch the game from that Windows Steam library. If Steam needs to install or update the game, allow the required download and disk space. Do not mix an official Steam installation with unrelated modified multiplayer files.</p>
+<p>For the supplied standalone folder, keep Windows Steam running and use the prepared <strong>Phasmophobia.app</strong> in the next step. Its custom launcher and online services may still fail under Wine. The kit does not claim to repair those services.</p>
+<h3 id="if-valve-has-updated-the-steam-installer">If Valve has updated the Steam installer</h3>
+<p>The helper pins the installer checked when this kit was prepared. If Valve replaces that download, its checksum will differ and the helper will stop. Keep using the same Sikarugir wrapper:</p>
+<ol>
+<li>Open <a href="https://cdn.akamai.steamstatic.com/client/installer/SteamSetup.exe">Valve's official Windows Steam installer link</a> and save <code>SteamSetup.exe</code> on the Mac. This is the Windows installer; the normal <a href="https://store.steampowered.com/about/">Steam download page</a> may offer the Mac app instead.</li>
+<li>Right-click <strong>Phasmophobia.app → Show Package Contents → Contents → Configure.app</strong>.</li>
+<li>Choose <strong>Install Software → Choose Setup Executable</strong> and select the downloaded <code>SteamSetup.exe</code>.</li>
+<li>Keep the default Steam installation folder. Uncheck <strong>Run Steam</strong> on the final screen and finish.</li>
+<li>Run <strong>Steam-Mac.command</strong> again; it opens the already installed Windows Steam.</li>
+</ol>
+<p>This manual path obtains the current installer directly from Valve. It is not covered by this kit's old pinned checksum. Do not edit the script to accept an unexplained hash or download a replacement from an unrelated site.</p>
+<h2 id="6-launch-the-game-on-the-mac">6. Launch the game on the Mac</h2>
+<ol>
+<li>Open Finder and choose <strong>Go → Home → Applications → Sikarugir</strong>.</li>
+<li>Double-click <strong>Phasmophobia.app</strong>.</li>
+<li>Wait for the initial launch. First-run graphics initialization can take longer than later launches.</li>
+<li>If macOS asks for microphone access, allow it if your friend wants in-game voice. If it asks for access to the folder containing the game, allow the access needed to read that chosen folder.</li>
+<li>Reach the game menu before trying multiplayer.</li>
+<li>Start with <strong>1280 × 720</strong>, low graphics, and a <strong>60 FPS limit</strong> if those settings are offered. After a stable test, increase settings as desired.</li>
+<li>Record the <strong>game version shown in the menu</strong>. Every intended player should use the same game version and compatible multiplayer service.</li>
+</ol>
+<p>For each later session, run <strong>Steam-Mac.command</strong>, leave Steam signed in, then open <strong>Phasmophobia.app</strong>. You do not need to rerun the full setup each time.</p>
+<h2 id="7-test-multiplayer-in-this-order">7. Test multiplayer in this order</h2>
+<p>Do this with at least one Windows player before inviting everyone. Getting to the menu alone is not a multiplayer pass.</p>
+<ol>
+<li>On Windows, start the usual game and confirm it reaches its menu.</li>
+<li>Compare the game version shown on Windows and Mac. Match the branch and multiplayer service too.</li>
+<li>Choose the same server region if the game offers region selection.</li>
+<li>One player creates a <strong>private lobby</strong> and shares the lobby code directly with the other player.</li>
+<li>The Mac player joins that lobby using the same normal join flow used on Windows.</li>
+<li>Confirm both players appear separately and can move independently.</li>
+<li>Test hearing each other, push-to-talk, proximity voice, and radio voice. Choose the correct input device in the game.</li>
+<li>Start a short contract. Both players must load into the map and remain connected.</li>
+<li>Check movement, mouse look, equipment interaction, game audio, and voice during the contract.</li>
+<li>Finish or leave the contract normally, return to the lobby, then have the Mac player reconnect once.</li>
+<li>Add the remaining Windows players and repeat a short contract with all four players.</li>
+</ol>
+<p>You do not need port forwarding just to perform this ordinary client multiplayer test. If the supplied build uses a different service from the other players, a compatibility wrapper will not make those services compatible.</p>
+<h2 id="8-if-something-fails">8. If something fails</h2>
+<p>Stay with the same Sikarugir setup. Identify the failed step before changing settings.</p>
+<table>
+<thead>
+<tr>
+<th>What happened</th>
+<th>Next step</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Setup says to run on a Mac</td>
+<td>Run the <code>.command</code> on the M4 Mac, not on Windows.</td>
+</tr>
+<tr>
+<td>macOS version is too old</td>
+<td>Update through Apple's Software Update, then rerun setup.</td>
+</tr>
+<tr>
+<td>Rosetta installation was cancelled</td>
+<td>Rerun setup and complete Apple's Rosetta prompt.</td>
+</tr>
+<tr>
+<td>A game file is missing</td>
+<td>Select the folder containing <code>Phasmophobia.exe</code>; finish transferring the complete folder.</td>
+</tr>
+<tr>
+<td>Download or checksum check fails</td>
+<td>Check the connection and rerun. If the checksum still differs, stop and report the exact filename; do not skip the check. An upstream installer may have changed.</td>
+</tr>
+<tr>
+<td>There is not enough disk space</td>
+<td>Make enough space using your normal file-management process, or keep the game on a suitable connected SSD. Setup does not erase files for you.</td>
+</tr>
+<tr>
+<td>An unrelated <code>Phasmophobia.app</code> already exists</td>
+<td>The kit preserves it. Rename that existing app in Finder if you want to keep it, then rerun setup.</td>
+</tr>
+<tr>
+<td>Setup stopped partway through creating its wrapper</td>
+<td>Keep the error text. Rerun the same setup; it can resume a wrapper created by this kit. Do not delete the game folder.</td>
+</tr>
+<tr>
+<td>You moved the game folder after setup</td>
+<td>Rerun <code>Setup-Mac.command</code> with the new folder selected. It updates its game-folder link without copying the game.</td>
+</tr>
+<tr>
+<td>Steam is not running / Steam API fails</td>
+<td>Open <strong>Steam-Mac.command</strong>, sign in to Windows Steam in this same wrapper, leave it open, and retry. Native macOS Steam alone does not satisfy this.</td>
+</tr>
+<tr>
+<td>Steam will not sign in or the game reports no entitlement</td>
+<td>Resolve the account or ownership issue in Steam. This is separate from graphics compatibility.</td>
+</tr>
+<tr>
+<td>Game opens but a lobby join returns an authentication error</td>
+<td>Record the exact error, game version, and service used. Check the same account/service works on Windows. Reinstalling graphics tools does not establish a fix for authentication.</td>
+</tr>
+<tr>
+<td>A lobby opens but contracts fail to load</td>
+<td>Run the full game-file check, compare versions, then retry one short two-player contract.</td>
+</tr>
+<tr>
+<td>No microphone / other players cannot hear you</td>
+<td>Check the selected in-game microphone and push-to-talk key. In macOS <strong>System Settings → Privacy &amp; Security → Microphone</strong>, check permission for the app that requested it. Restart the game after changing permission.</td>
+</tr>
+<tr>
+<td>Voice still fails</td>
+<td>Use a separate voice call for talking. If your game version offers <strong>Text</strong> voice recognition, try it for supported equipment interactions. This does not restore proximity/radio voice or every audio-driven mechanic. Mark voice as a failed part of the test.</td>
+</tr>
+<tr>
+<td>Black window, crash, or frozen launch</td>
+<td>Stop the test and collect the exact error/log below. Use the same Sikarugir configuration for the first report; do not change several settings at once. Mac execution has not yet been validated for this build.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="open-sikarugirs-configuration-window">Open Sikarugir's configuration window</h3>
+<p>Only if troubleshooting requires it: right-click <strong>Phasmophobia.app → Show Package Contents → Contents</strong>, then open <strong>Configure.app</strong>. This is part of the same Sikarugir tool. Its <strong>Test Run</strong> function can produce the Wine log. Keep DXMT for the first test so the result is reproducible.</p>
+<h3 id="read-only-setup-check">Read-only setup check</h3>
+<pre><code class="language-bash">bash &quot;$HOME/Games/Mac-Setup/Setup-Mac.command&quot; --check
+</code></pre>
+<p>This checks the Mac requirements and known setup files. It makes no downloads or repairs and does not prove the game launches.</p>
+<h2 id="9-what-to-send-back-after-the-test">9. What to send back after the test</h2>
+<p>Copy this checklist into your reply and fill it in:</p>
+<pre><code class="language-text">Mac: M4 MacBook Pro
+macOS version:
+Memory:
+Setup-Mac result / exact error:
+Steam-Mac result / sign-in completed:
+Game version on Mac:
+Game version on Windows:
+Game menu reached: yes / no
+Private lobby joined: yes / no
+Contract loaded on both computers: yes / no
+Stayed connected through a contract: yes / no
+Returned to lobby and reconnected: yes / no
+Audio heard: yes / no
+Microphone / proximity / radio worked: yes / no
+Four-player test completed: yes / no
+Exact remaining error:
+</code></pre>
+<p>Logs stay on your Mac. Nothing is automatically uploaded:</p>
+<ul>
+<li>Setup logs: <code>~/Library/Logs/Phasmo-Mac-Setup/</code>.</li>
+<li>Wine test-run log: <code>~/Applications/Sikarugir/Phasmophobia.app/Contents/SharedSupport/Logs/LastRunWine.log</code>.</li>
+<li>The Unity game log, when created, is inside the wrapper's Windows environment under its user profile's <code>AppData/LocalLow/Kinetic Games/Phasmophobia/Player.log</code>. The exact Wine user folder can vary.</li>
+</ul>
+<p>Read logs before sharing. Send the relevant error section, and remove account identifiers, access tokens, lobby codes, and personal paths. Do not send passwords or Steam Guard codes.</p>
+<h2 id="what-has-been-checked-so-far">What has been checked so far</h2>
+<ul>
+<li>Official download URLs and published Sikarugir archive SHA-256 values were checked; the three Sikarugir archives were downloaded and verified on Windows.</li>
+<li>The current wrapper's layout, launch interface, and prefix-creation command were checked against the official source and downloaded components.</li>
+<li>Shell syntax, prerequisite handling, download verification, and game-file verification were exercised locally. These checks do not emulate a Mac or Wine.</li>
+<li>A full fingerprint manifest was produced for 602 files in the supplied game copy; the six core fingerprints were independently rechecked.</li>
+<li>Windows diagnostics found the graphics hardware and both Visual C++ runtimes. Historical Windows logs show DirectX 11 initialization and some authentication/voice-related errors. They do not prove this copied folder or the Mac works.</li>
+<li><strong>Still required:</strong> actual Mac application startup, Windows Steam sign-in, game rendering, microphone behavior, lobby join, contract load, reconnection, and four-player play.</li>
+</ul>
+<p>For exact component versions, hashes, and supporting sources, see <a href="compatibility-notes.md">compatibility-notes.md</a>. Windows-only diagnostics are available through <code>Check-Windows.ps1</code>; they are not part of the Mac installation.</p>
+<p>Official tool: <a href="https://github.com/Sikarugir-App/Sikarugir">Sikarugir on GitHub</a>. Use the GitHub organization linked here; the similarly named <code>sikarugir.com</code> site is not the official project.</p>
+<footer>This is an offline copy of README.md. Setup uses Sikarugir; the actual Mac and multiplayer test is still required.</footer>
+</main></body></html>

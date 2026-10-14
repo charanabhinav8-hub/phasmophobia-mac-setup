@@ -1,0 +1,3027 @@
+{
+  "createdUtc": "2026-10-14T11:43:28.703680+00:00",
+  "scope": "Local-copy transfer integrity only; not an official publisher authenticity check or multiplayer proof.",
+  "buildIdentity": "fee9f935240561e275bae62bcea6585646e0893fea469b6eb5fcd5ba645264e0",
+  "fileCount": 602,
+  "bytes": 44739590487,
+  "excluded": [
+    "_CommonRedist/",
+    "SavedScreen*",
+    "SavedVideo*",
+    "*.log",
+    "*.ini",
+    "OnlineFix.json"
+  ],
+  "files": [
+    {
+      "path": "GameAssembly.dll",
+      "bytes": 113075712,
+      "sha256": "e300eda993f2479922628f1b44f59e60c156c240f5a07c7289c4bd0fe4b790c8"
+    },
+    {
+      "path": "Launcher.exe",
+      "bytes": 6872048,
+      "sha256": "2ad12bf130d62371e2eceb66955178e26d929899e8e49b84c18925068e867d7a"
+    },
+    {
+      "path": "OnlineFix64.dll",
+      "bytes": 12087808,
+      "sha256": "76a8e2d4630a8e3a6914ab35f4ba4c105943c85bcd4ee327b43a976a78fdf8ee"
+    },
+    {
+      "path": "Phasmophobia.exe",
+      "bytes": 666624,
+      "sha256": "8c76579e8f37aa647a57a5d3da548fa37792160bbaa1a884fd10f9f67c5486af"
+    },
+    {
+      "path": "Phasmophobia_Data/Plugins/Steamworks.NET.txt",
+      "bytes": 239,
+      "sha256": "a933c34f88b7e530183403b5027a68f2580df86f12cb84cb2943196859b482eb"
+    },
+    {
+      "path": "Phasmophobia_Data/Plugins/x86_64/AudioIn.dll",
+      "bytes": 145920,
+      "sha256": "50f8407d6cd5625d2a8811885a1917989c92186e8106b1dad8e39cc4f7f9a62e"
+    },
+    {
+      "path": "Phasmophobia_Data/Plugins/x86_64/LIV_Bridge.dll",
+      "bytes": 483840,
+      "sha256": "ab2f3d6282ebb0bf4f0db2c74e03a1c296be21075ac3ccbe5d9fde85a6620cb5"
+    },
+    {
+      "path": "Phasmophobia_Data/Plugins/x86_64/UnityOpenXR.dll",
+      "bytes": 823296,
+      "sha256": "0ba947fa3b7c954f77b5bb6dadd3023ab7d3104883a1159adcef4cd03001bb74"
+    },
+    {
+      "path": "Phasmophobia_Data/Plugins/x86_64/VivoxNative.dll",
+      "bytes": 733880,
+      "sha256": "1edf464d0184b7b13bb626e3222902f87ba1c74b026fe5600f04347acd9a5498"
+    },
+    {
+      "path": "Phasmophobia_Data/Plugins/x86_64/audioplugin_phonon.dll",
+      "bytes": 393728,
+      "sha256": "0b768e92a3b3aec06a4ac366c7d0668fe46f01178654887e8bb9bcdf7240567b"
+    },
+    {
+      "path": "Phasmophobia_Data/Plugins/x86_64/libRecognissimo.dll",
+      "bytes": 26428928,
+      "sha256": "e97ba59e30271528fb94eba0c67d06f2414ed0fb6a40cbff1f7275bcec6ba2c7"
+    },
+    {
+      "path": "Phasmophobia_Data/Plugins/x86_64/lib_burst_generated.dll",
+      "bytes": 617472,
+      "sha256": "1bfd01e4245f9cd72adee233cb29ca94b04db392bc351aaac6dbb9efd1e11993"
+    },
+    {
+      "path": "Phasmophobia_Data/Plugins/x86_64/libspeexdsp.dll",
+      "bytes": 210944,
+      "sha256": "e5c74d17dadf23797045d4480289d05514f1295d14b46ca9f13307d9ea6c5743"
+    },
+    {
+      "path": "Phasmophobia_Data/Plugins/x86_64/openxr_loader.dll",
+      "bytes": 1945600,
+      "sha256": "2309e117cb537474c7ccb9948acc9561f10c89ec6233db30360d48fcaccdc0aa"
+    },
+    {
+      "path": "Phasmophobia_Data/Plugins/x86_64/opus_egpv.dll",
+      "bytes": 440832,
+      "sha256": "4f74f4a21512f4cc13bee08c043cf98e0a4c92c02d265283058a19f7c70d7ee7"
+    },
+    {
+      "path": "Phasmophobia_Data/Plugins/x86_64/phonon.dll",
+      "bytes": 10178336,
+      "sha256": "cdb1da2ed59fdfa7f52fd2429ff93569a06e3be1c8ae63dddb995029651032cf"
+    },
+    {
+      "path": "Phasmophobia_Data/Plugins/x86_64/sqlite3.dll",
+      "bytes": 1958912,
+      "sha256": "eda5024b1cebf7eb43c500558b8f0ddbde458527ee41f13f47af0c74d973242f"
+    },
+    {
+      "path": "Phasmophobia_Data/Plugins/x86_64/steam_api64.dll",
+      "bytes": 298384,
+      "sha256": "1db3fd414039d3e5815a5721925dd2e0a3a9f2549603c6cab7c49b84966a1af3"
+    },
+    {
+      "path": "Phasmophobia_Data/Plugins/x86_64/viveport_api64.dll",
+      "bytes": 2879552,
+      "sha256": "110924a87fcf4190b224e5fc9f27f99aad925ae29c65da0202f4c25f3f66a91f"
+    },
+    {
+      "path": "Phasmophobia_Data/Plugins/x86_64/vivoxsdk.dll",
+      "bytes": 12362832,
+      "sha256": "57b3fff4b8705168d55f5508842cb6519418db3f538ea7a04f63f990f2476d50"
+    },
+    {
+      "path": "Phasmophobia_Data/Resources/unity default resources",
+      "bytes": 1564240,
+      "sha256": "0950eba963b4669bfb2de83769172984b1e3160a290b75b4c9348e411a130549"
+    },
+    {
+      "path": "Phasmophobia_Data/Resources/unity_builtin_extra",
+      "bytes": 2306348,
+      "sha256": "ab972ed2fddbfd3231eaf657921363e472fdbda4870bca714ee48541cde76aa2"
+    },
+    {
+      "path": "Phasmophobia_Data/RuntimeInitializeOnLoads.json",
+      "bytes": 12247,
+      "sha256": "ddaf77f1322ddc0cd31ea50f7cb20873144f14b0d9ebb218df2bf10ca81ec835"
+    },
+    {
+      "path": "Phasmophobia_Data/ScriptingAssemblies.json",
+      "bytes": 6638,
+      "sha256": "6d7a1fe397c318e31b25af8706271e309a08735f58be0661f761a33d3740fb17"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Arabic/README",
+      "bytes": 233,
+      "sha256": "f7f269cdf0684bbc7b4899a9601632569734122d1a421542c4a6fa43bfe1e1dc"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Arabic/am/final.mdl",
+      "bytes": 147954790,
+      "sha256": "270d47d60692aedb6b78b913ae24ab636264e67970b0b5ffa8cee666070501b1"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Arabic/am/tree",
+      "bytes": 724536,
+      "sha256": "18f4a0198af15f21433b408c25f9adc00ba310e97352256bfce34185028765e4"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Arabic/conf/mfcc.conf",
+      "bytes": 521,
+      "sha256": "eae95bf2acc4ab0d5aa4116e5e8b1ba0528c3995911c7d2914959a24b04768a6"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Arabic/conf/model.conf",
+      "bytes": 278,
+      "sha256": "9357ba3adc9fa5ef3cf7d202113dc41caec06871154f9ea5afb47fd085155b51"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Arabic/graph/HCLG.fst",
+      "bytes": 419139617,
+      "sha256": "2cf1efb28eb7a88ecd078ab8df8ef3b8cb195aec3dd229fe8d82b86732d7f8e7"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Arabic/graph/disambig_tid.int",
+      "bytes": 12,
+      "sha256": "69d05d6c29ccfdd6eb1228387af2d3285ab591151d1cd1e5bcb2982828169eb1"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Arabic/graph/num_pdfs",
+      "bytes": 5,
+      "sha256": "e609f33f461dbea739bafcccd3a2ae07158fb1b6e8ee2582e327dbf68425cb22"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Arabic/graph/phones.txt",
+      "bytes": 1178,
+      "sha256": "60b11e9f29f615dc0b98a0cdfc75fb1a52f7de6a5c222ef9abad2ac42a0b6fb6"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Arabic/graph/phones/align_lexicon.int",
+      "bytes": 35195793,
+      "sha256": "6fdf7d5a0049e2722df88323c48434848c93ed1805871c1f04b9360e4c1b38f5"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Arabic/graph/phones/align_lexicon.txt",
+      "bytes": 40057532,
+      "sha256": "b2101700722b6e45bddabaa4918f07e0d2575636c52393008eb29e0ed9d480d1"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Arabic/graph/phones/disambig.int",
+      "bytes": 8,
+      "sha256": "85761f71df7c9a82924ca0a591f95e7a75832fac65e74a9f855184faa396983d"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Arabic/graph/phones/disambig.txt",
+      "bytes": 6,
+      "sha256": "4539ac39e7f2f6d471a4ecef2c0fc089700f8b9d4b337c37b215f564d5bcd7a9"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Arabic/graph/phones/optional_silence.csl",
+      "bytes": 2,
+      "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Arabic/graph/phones/optional_silence.int",
+      "bytes": 2,
+      "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Arabic/graph/phones/optional_silence.txt",
+      "bytes": 4,
+      "sha256": "ebe5d1c9a1dc955e8b0e9d16062b2d6fede3ba741afdb9a6aec65810009bee11"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Arabic/graph/phones/silence.csl",
+      "bytes": 10,
+      "sha256": "cf5ec3789156e0032c1b7e023e0c01a251fe2af9a37cda187027d5fe45b8c32b"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Arabic/graph/phones/word_boundary.int",
+      "bytes": 1659,
+      "sha256": "18f84788f52c054d06ee8666f3d255e7b64d204a50118830e1153a4bcac5e818"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Arabic/graph/phones/word_boundary.txt",
+      "bytes": 1775,
+      "sha256": "9ee9cdcfb261752a581fe2cf651f636c5acaa68f81acd82ff2c96827142a1c63"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Arabic/graph/words.txt",
+      "bytes": 21222619,
+      "sha256": "1da082badb6c7e3cbf5c3caa6cd8b62ab6ffe65a57f4e7b92e75d1c02704553e"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Arabic/graph/words_bw.txt",
+      "bytes": 13907872,
+      "sha256": "8a502ad2fdfd2f4e0a7a3f104738eca331a20ef4c82d32fbb06eba4d09b376ac"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Arabic/graph/words_head.txt",
+      "bytes": 8,
+      "sha256": "f79429fde53c2c99495ab9292c37b401023976a79ca8e2f3cd4e588bfe4ae762"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Arabic/graph/words_tail.txt",
+      "bytes": 33,
+      "sha256": "af0681908c75a8a467f4e6ca4c3f142fa291bf4db3732e7c8f932ef5e67cdd7d"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Arabic/ivector/final.dubm",
+      "bytes": 168048,
+      "sha256": "efb7f72fcf10ccb465f8970e83d811f4219fce2468ebb026a628b6894688af50"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Arabic/ivector/final.ie",
+      "bytes": 19757687,
+      "sha256": "3835f479a636ec3730edd5c937a7a046f665f61067892ace1f38eac71617222b"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Arabic/ivector/final.ie.id",
+      "bytes": 33,
+      "sha256": "4f2f8fdc2310ee16671e6e3d72c0ef3c5f642fe94d165ebe2afb06866b9a6656"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Arabic/ivector/final.mat",
+      "bytes": 44975,
+      "sha256": "914ac21b9c55010dabb6c2594c3ef42eae0c2b3d6a32552672b44718cb9333bf"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Arabic/ivector/global_cmvn.stats",
+      "bytes": 1079,
+      "sha256": "098acef36d79f123ee51ff4435f30d3118db09f4cee239fb51502406bf4334ed"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Arabic/ivector/online_cmvn.conf",
+      "bytes": 108,
+      "sha256": "93fb4bfbc9915676e831f3cd0688c9616831ec56903dd606f972c1890cd23d97"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Arabic/ivector/splice.conf",
+      "bytes": 35,
+      "sha256": "9f0c5f7c82d18eaf25d8bce470efa9f7741f88411fe428774bc0a9bb69a24756"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Arabic/scripts/buckwalter2unicode.py",
+      "bytes": 15217,
+      "sha256": "17c89f8475dba517aa5ced9c27079bad7162f24d5970487020ee97e5c74b86ab"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Catalan/README",
+      "bytes": 26,
+      "sha256": "a41a957647e416f72579aedcc38900b2b5bd98615a6e9a012d91a4dccf8d83ad"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Catalan/am/final.mdl",
+      "bytes": 13291461,
+      "sha256": "22e3603d44369a2a33ad6467037110a50d75c506433094be933b02e82c1ee3d2"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Catalan/am/tree",
+      "bytes": 243868,
+      "sha256": "092f2ba43a61f53511da4814d133cbf3c1641820d1dbbdc2ffcbcdca33dfd408"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Catalan/conf/mfcc.conf",
+      "bytes": 82,
+      "sha256": "42b1450e80757f2702bd640ff6c0aa4b3809610754f883bac6fd26eea2699107"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Catalan/conf/model.conf",
+      "bytes": 289,
+      "sha256": "dd7178da0e99fdbe489816c1e9702c3daa28e02accacc2993e0becb7af33b80c"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Catalan/graph/Gr.fst",
+      "bytes": 27834775,
+      "sha256": "3c10aaacbfd57d486e3dc777c94cd587c634de937c98779d3834e92e05effe0a"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Catalan/graph/HCLr.fst",
+      "bytes": 26632506,
+      "sha256": "2b2ae3e95c174d0aa179259816f860e49574efb6a167e122d4c3da7204ce276c"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Catalan/graph/disambig_tid.int",
+      "bytes": 65,
+      "sha256": "5de7c41b092009f25d8c2f9efffe926b29cc631290370102b95d592f1b80845f"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Catalan/graph/phones/align_lexicon.int",
+      "bytes": 7679734,
+      "sha256": "ed2a4427b75a74cf506f911d2225ce91b19df2cee3282530b504c74c5bef7587"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Catalan/graph/phones/align_lexicon.txt",
+      "bytes": 10482225,
+      "sha256": "f06f741a90b2b7e32de4a1480efeb0d670949b80169532d0861e954cab82ecbb"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Catalan/graph/phones/disambig.int",
+      "bytes": 52,
+      "sha256": "19f90905089c9e4e44c514cc424f1cb6e9709cde5434b2144a158c45704e68f3"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Catalan/graph/phones/disambig.txt",
+      "bytes": 42,
+      "sha256": "fedd3dd8a146ecf02bf85d3d8ffde0d432043566ff92b50fe489e6918b90fa7a"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Catalan/graph/phones/optional_silence.csl",
+      "bytes": 2,
+      "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Catalan/graph/phones/optional_silence.int",
+      "bytes": 2,
+      "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Catalan/graph/phones/optional_silence.txt",
+      "bytes": 4,
+      "sha256": "ebe5d1c9a1dc955e8b0e9d16062b2d6fede3ba741afdb9a6aec65810009bee11"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Catalan/graph/phones/silence.csl",
+      "bytes": 21,
+      "sha256": "8d99bf63ef15987b60950cfd42d9484d3a4b16e679cd355ac98b439bb8f16147"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Catalan/graph/phones/word_boundary.int",
+      "bytes": 1716,
+      "sha256": "117a8ca1c6b9342eac068ef9ffeb0a21b02d4a8231635382b1a3b7668bb3475e"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Catalan/graph/phones/word_boundary.txt",
+      "bytes": 1900,
+      "sha256": "559fa8f94787ca77f1a4088e8490a32c167aa17d5dad80a114d729bd4880f2a0"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Catalan/ivector/final.dubm",
+      "bytes": 168048,
+      "sha256": "d9627c175114d1856f4f75be400fd53daf22dd2c9e436a0c1b8eea457cb8e95b"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Catalan/ivector/final.ie",
+      "bytes": 8288887,
+      "sha256": "d435ed4fedba322d9ecc2e1d3e379d540ca136cd5103633df1727d8bbbecafeb"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Catalan/ivector/final.mat",
+      "bytes": 22575,
+      "sha256": "8d36c350fede6dc57171191accd89d47712385c4041c1bb213115910a898f90c"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Catalan/ivector/global_cmvn.stats",
+      "bytes": 555,
+      "sha256": "2c5658adc5e04ce73d5f375ce2c7b43bd4d1f895717299e76836036ce600c5c9"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Catalan/ivector/online_cmvn.conf",
+      "bytes": 95,
+      "sha256": "a2f3571754b64297cb7efb2e7ca3df61995c5a45fcbb97188f90613552bb2dfe"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Catalan/ivector/splice.conf",
+      "bytes": 35,
+      "sha256": "9f0c5f7c82d18eaf25d8bce470efa9f7741f88411fe428774bc0a9bb69a24756"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Chinese/Gr.fst",
+      "bytes": 17839319,
+      "sha256": "e09c8dd8b0841a77daa529f985c74355f8bae0661e3a98412d9c89d78009323c"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Chinese/HCLr.fst",
+      "bytes": 10698514,
+      "sha256": "2fc81f312683d33bd9e73d8d6bea47c2716f4f77bdb2dde1847a813bf9b66e63"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Chinese/README",
+      "bytes": 108,
+      "sha256": "6776fa6ee2e9295a235c5d00df6d58561474519027a17f4ca9cb9d7a7a8f2019"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Chinese/disambig_tid.int",
+      "bytes": 186,
+      "sha256": "4c4336abc304ace92758357ebd2fef3eddace2ce3b74332e78da3e45414a06d1"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Chinese/final.mdl",
+      "bytes": 13680213,
+      "sha256": "974e9937a6ebfbeb3f0aeeb610a57c7514299d272d759f4ad1f02c5a11556254"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Chinese/ivector/final.dubm",
+      "bytes": 168048,
+      "sha256": "8fe966b61892023c80f0efc463c9035a6e0bd62cb5701812f1fc54332261b935"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Chinese/ivector/final.ie",
+      "bytes": 8288887,
+      "sha256": "de2a5696d6f2a4153d3e310478cdd021be9118caa0ed9ffc8a04d4175399c702"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Chinese/ivector/final.mat",
+      "bytes": 44975,
+      "sha256": "0d6f767d8391180cb5779c5b84db93a8abd1cf01bc80b128e194ef59e3a83b9a"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Chinese/ivector/global_cmvn.stats",
+      "bytes": 1086,
+      "sha256": "ee4c1e1896da14677a43721948b8818411f26cd3a4e32c4fb8a5787c8fe091a3"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Chinese/ivector/online_cmvn.conf",
+      "bytes": 95,
+      "sha256": "a2f3571754b64297cb7efb2e7ca3df61995c5a45fcbb97188f90613552bb2dfe"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Chinese/ivector/splice.conf",
+      "bytes": 35,
+      "sha256": "9f0c5f7c82d18eaf25d8bce470efa9f7741f88411fe428774bc0a9bb69a24756"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Chinese/mfcc.conf",
+      "bytes": 565,
+      "sha256": "462b8379f9650b0dad593ca9771d52e67e3b975a3174e67a722e98df55ac6c63"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Chinese/word_boundary.int",
+      "bytes": 5283,
+      "sha256": "ecc565ffcfab8c94e7c6757b6dc661b513249f1834fa1b92f22fbd818a1fdc66"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Czech/README",
+      "bytes": 197,
+      "sha256": "339d330f4deabb608294e1125fab2326ab411d24eb35d082c30ed4f16242eac6"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Czech/am/final.mdl",
+      "bytes": 11919665,
+      "sha256": "9a909a8050f0abd5cea5a097dcbab8d141bede5aefeb5b062ea4ab4796c98596"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Czech/conf/mfcc.conf",
+      "bytes": 128,
+      "sha256": "cdb0d516e5b8886092f1d840c628107703a65b571dc3b16b888a9a3978958b96"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Czech/conf/model.conf",
+      "bytes": 289,
+      "sha256": "dd7178da0e99fdbe489816c1e9702c3daa28e02accacc2993e0becb7af33b80c"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Czech/graph/Gr.fst",
+      "bytes": 20631405,
+      "sha256": "0c3c420e4c8371a3ff1f1ca73964a747d6dff7048918325ebecc40fb36375ea0"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Czech/graph/HCLr.fst",
+      "bytes": 11819666,
+      "sha256": "dbc968458b03522bf5577fe7fe5a5d8f8dc223fe9b98084dcad56958ae2feb50"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Czech/graph/disambig_tid.int",
+      "bytes": 42,
+      "sha256": "ec293ea586f489565074285f58d5027f88431b8bf9acd584531aefc7a241833e"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Czech/graph/phones/align_lexicon.int",
+      "bytes": 2301512,
+      "sha256": "f130ba9bbc66bee2352708e2aa95949db14c2af365c683a2c9186d2d1e2aba67"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Czech/graph/phones/align_lexicon.txt",
+      "bytes": 3380791,
+      "sha256": "09f6200c44771e69341a18e48d86179b9c1794069cbed5c50cc768f0c620fd44"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Czech/graph/phones/disambig.int",
+      "bytes": 28,
+      "sha256": "4decf585d40f8c5505a58e51ad3d477503d25c06c3d1bb33b7f041e703eeceef"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Czech/graph/phones/disambig.txt",
+      "bytes": 21,
+      "sha256": "68dac9e6366dca5d7edcddcfe8d1c016d457e3b2c697ec6f4053dfe785ebee3f"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Czech/graph/phones/optional_silence.csl",
+      "bytes": 2,
+      "sha256": "06e9d52c1720fca412803e3b07c4b228ff113e303f4c7ab94665319d832bbfb7"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Czech/graph/phones/optional_silence.int",
+      "bytes": 2,
+      "sha256": "06e9d52c1720fca412803e3b07c4b228ff113e303f4c7ab94665319d832bbfb7"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Czech/graph/phones/optional_silence.txt",
+      "bytes": 4,
+      "sha256": "ebe5d1c9a1dc955e8b0e9d16062b2d6fede3ba741afdb9a6aec65810009bee11"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Czech/graph/phones/silence.csl",
+      "bytes": 36,
+      "sha256": "1d406213cfb0a47a154d2c517d8b7a03128cc22892d217b0ead039795c32fad4"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Czech/graph/phones/word_boundary.int",
+      "bytes": 1863,
+      "sha256": "e7012cca5c1046d25ae8a7590d242f08f175d02bbdd6fab933e62b0efced333a"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Czech/graph/phones/word_boundary.txt",
+      "bytes": 2163,
+      "sha256": "22b4c751d1de6e087c0df2be12781dd2dd0613018b4f0bfd0732d1da2c37d496"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Czech/ivector/final.dubm",
+      "bytes": 168048,
+      "sha256": "495aa3af829e07369d6767ac1059122ffa9a40e22f37fbf514778820c6082335"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Czech/ivector/final.ie",
+      "bytes": 19757687,
+      "sha256": "6e107379d9f197031fc37307a967aa0aa87a3c04610392666746eb587d547d4b"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Czech/ivector/final.mat",
+      "bytes": 44815,
+      "sha256": "df7102e2bc4ed1a715ca1c7fe2303204974e0ad242b5e2134731fb5b563a60a0"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Czech/ivector/global_cmvn.stats",
+      "bytes": 1025,
+      "sha256": "bef9fd102abbb4a4d84963f93122448b67459929769eefca77cb4e65210ce49c"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Czech/ivector/online_cmvn.conf",
+      "bytes": 108,
+      "sha256": "93fb4bfbc9915676e831f3cd0688c9616831ec56903dd606f972c1890cd23d97"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Czech/ivector/splice.conf",
+      "bytes": 35,
+      "sha256": "9f0c5f7c82d18eaf25d8bce470efa9f7741f88411fe428774bc0a9bb69a24756"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Dutch/README",
+      "bytes": 260,
+      "sha256": "fef9deeebd2b469130bd7e3cef5fb9af7045987ca7fb838a3b4dfa57187e9b4c"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Dutch/am/final.mdl",
+      "bytes": 15917156,
+      "sha256": "f0c86a1b361d1d9f22870907a17c7ab5f634659f3282ec9a329f651e9141cafc"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Dutch/conf/mfcc.conf",
+      "bytes": 128,
+      "sha256": "f92ba83abbdf1bdcbe5449522f3ae2903b1a2c1967188af3e14739d91d9206d2"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Dutch/conf/model.conf",
+      "bytes": 289,
+      "sha256": "d8d91d310a9659fed2d89f8ea4996af6163a43c3ab008cd278e4264120551712"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Dutch/graph/Gr.fst",
+      "bytes": 22507337,
+      "sha256": "487910d361da4f2e33cca9e1057a3ceb80c6feb80417d53d13049230b168b06b"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Dutch/graph/HCLr.fst",
+      "bytes": 21831530,
+      "sha256": "6211eeec5667470874b185f44f086ee795bbf878030fb4e50f579c3bac4bb1ab"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Dutch/graph/disambig_tid.int",
+      "bytes": 85,
+      "sha256": "d33d4a1128dcde8f0189a82af61f79da0ea100302bd2bb22963420e2539171ea"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Dutch/graph/phones/word_boundary.int",
+      "bytes": 1716,
+      "sha256": "117a8ca1c6b9342eac068ef9ffeb0a21b02d4a8231635382b1a3b7668bb3475e"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Dutch/ivector/final.dubm",
+      "bytes": 168048,
+      "sha256": "ca35ee06dec7671155c38d0330e2bafe929cc26227aba6838ca3a45093dec543"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Dutch/ivector/final.ie",
+      "bytes": 8288887,
+      "sha256": "c460ecc48d8f4bd65817012929e33d92a569868307c18755cc2dbfa9454c8935"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Dutch/ivector/final.mat",
+      "bytes": 22575,
+      "sha256": "c2551b8731eedd0da0c3467a38a139fc497bbf510e4fc0719f161d3290480661"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Dutch/ivector/global_cmvn.stats",
+      "bytes": 558,
+      "sha256": "b435df35829668b8d640079c6d22d963fbf170c5334caed3c58e2b9bf6b1eb54"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Dutch/ivector/online_cmvn.conf",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Dutch/ivector/splice.conf",
+      "bytes": 35,
+      "sha256": "9f0c5f7c82d18eaf25d8bce470efa9f7741f88411fe428774bc0a9bb69a24756"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/English/README",
+      "bytes": 199,
+      "sha256": "c0cf286e4f7783306c5f6469b37db69228fb16803b03cae661edb2d7bba64ebb"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/English/am/final.mdl",
+      "bytes": 15962575,
+      "sha256": "75370a0137f9daf8f469dedd7daa4513ae7a621f03240c6e512e2b50b656a7b6"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/English/conf/mfcc.conf",
+      "bytes": 131,
+      "sha256": "1e2228006d01d805ad1c267fee9f79709ca87ac51bd82b0e3f5c69ba543f0fc4"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/English/conf/model.conf",
+      "bytes": 290,
+      "sha256": "8f14cb1eeb07c762c371db648c6be688d347236155ca0f64fb13b6567a8ce81f"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/English/graph/Gr.fst",
+      "bytes": 24013795,
+      "sha256": "023c8b7e30704a9e37765c635c252e608a02f361235bf94abdcf2a5225d85b20"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/English/graph/HCLr.fst",
+      "bytes": 22416994,
+      "sha256": "5caafba3081e1646545ac6bff0dd7a318e53dcbdc86f237909ce1d2ac1293d34"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/English/graph/disambig_tid.int",
+      "bytes": 102,
+      "sha256": "9ad87cc166d0998f08f758f47a6223a120dfffcbee805c4849c3aa5e6bb3c0fc"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/English/graph/phones/word_boundary.int",
+      "bytes": 1761,
+      "sha256": "da199d9c991e0e84681ddbb34627b915b26302d50a8fdaa23c51e2bc3a50b5c3"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/English/ivector/final.dubm",
+      "bytes": 168048,
+      "sha256": "8c5d7dd69d2122313baaf19f61f35dd3fa18b70c62ac0687e311e1c46e6daca7"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/English/ivector/final.ie",
+      "bytes": 8288887,
+      "sha256": "3f37faf90c375b9e4740b569398b5829ed9cc07d19be6d441f72c3b71d7efcc6"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/English/ivector/final.mat",
+      "bytes": 44975,
+      "sha256": "ddd83586dc5f928cda8738b922c85ffe38fc789cb5f9151a712ca12f37265382"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/English/ivector/global_cmvn.stats",
+      "bytes": 1080,
+      "sha256": "33be09afcc80059847a275c3d043b51f1ab954c7c2438ddbbf4745e8ba144ff9"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/English/ivector/online_cmvn.conf",
+      "bytes": 95,
+      "sha256": "a2f3571754b64297cb7efb2e7ca3df61995c5a45fcbb97188f90613552bb2dfe"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/English/ivector/splice.conf",
+      "bytes": 35,
+      "sha256": "9f0c5f7c82d18eaf25d8bce470efa9f7741f88411fe428774bc0a9bb69a24756"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/French/README",
+      "bytes": 354,
+      "sha256": "a036c27a5f30d95910f739ce9466539a5772cd13541e5fdddfbfae187993f8d8"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/French/am/final.mdl",
+      "bytes": 15978979,
+      "sha256": "580d99752e3f6f31fb4a03403b0b2a3a78b9665937e2823668b46d9c9ce1a1a1"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/French/conf/mfcc.conf",
+      "bytes": 153,
+      "sha256": "6c326fea5741c2d78be12f76eb1b36ea2ace040da9e355e4cfe6bb80e5f7d5ab"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/French/conf/model.conf",
+      "bytes": 289,
+      "sha256": "d8d91d310a9659fed2d89f8ea4996af6163a43c3ab008cd278e4264120551712"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/French/graph/Gr.fst",
+      "bytes": 24029163,
+      "sha256": "4d5aefc6af664d1c47979ae3b9eb7e972c196e843ff4eee65e4c7b0c064723cf"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/French/graph/HCLr.fst",
+      "bytes": 18331442,
+      "sha256": "6562aee2cffac5ad2e569584bc8ca22b1bae0ce9e6e03f0f9898d9d7c267eaa5"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/French/graph/disambig_tid.int",
+      "bytes": 380,
+      "sha256": "fd844580478d2c0dbb01e408f77fce92a343a9fe05c304fea57a0d8e3122d7b1"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/French/graph/phones/word_boundary.int",
+      "bytes": 1626,
+      "sha256": "262452069835201f18fd4de64c4816a2333a54c80b4114084d75e1c4eb273836"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/French/ivector/final.dubm",
+      "bytes": 168048,
+      "sha256": "15c6736f097e9a1fbc3811a75a666da39cb9aa4526acea29d25f2a3003357acc"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/French/ivector/final.ie",
+      "bytes": 9927287,
+      "sha256": "bd52bc5aeef1f35349c7a6fd3fb671a4a877ba04181da30d99f2cf01d4b75dd5"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/French/ivector/final.mat",
+      "bytes": 44975,
+      "sha256": "61818a44ae3519708e9a31701da4ab351f3e19d7bd3e4ddfd820fd7f121cfad0"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/French/ivector/global_cmvn.stats",
+      "bytes": 1076,
+      "sha256": "9d94d076adc26cd578cc4cf702dc41e5ea6de202f4563d6f0d4b4d4fdbb46bc1"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/French/ivector/online_cmvn.conf",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/French/ivector/splice.conf",
+      "bytes": 35,
+      "sha256": "9f0c5f7c82d18eaf25d8bce470efa9f7741f88411fe428774bc0a9bb69a24756"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/German/COPYING",
+      "bytes": 10349,
+      "sha256": "b4927f667bb8ec6f638dbc69025babe2cb93583dab120cd0254b12edc20cbc01"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/German/README",
+      "bytes": 807,
+      "sha256": "82e93928e28fa8920283c66ba23da3c797d9f125be5abd1b6c935088ded365a9"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/German/am/final.mdl",
+      "bytes": 15749291,
+      "sha256": "85d414100bb54c8dba6558ce5a6dc908d2fb76b02d9a94c20adbb36c7761811d"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/German/conf/mfcc.conf",
+      "bytes": 114,
+      "sha256": "f3da9b8fddf91fae163a71ca663f590026968e75561e578cc5ee5437e962be91"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/German/conf/model.conf",
+      "bytes": 299,
+      "sha256": "5c056da2275ff4678a2b291f0e8463f1bfbe5b1f244e4b196bf8a5b4b5761641"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/German/graph/Gr.fst",
+      "bytes": 29472167,
+      "sha256": "635cc0dd8b2d301a317613b6d1696540b665088c3efa3e2eb4a1160e884f380f"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/German/graph/HCLr.fst",
+      "bytes": 41892842,
+      "sha256": "cd3508dcfb4548d4f57af1b5018772fd21d16d4cbe1be70e5208dafc443ba14e"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/German/graph/disambig_tid.int",
+      "bytes": 49,
+      "sha256": "263fbf1021b3909566f800696d899bc66b0af35d258c3d6a96cdde56d0f1aae9"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/German/graph/phones/word_boundary.int",
+      "bytes": 4916,
+      "sha256": "94cf9c4635259ba1bfa4c561ef30cff069ec303230bbc98a57fb93bde9739f62"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/German/ivector/final.dubm",
+      "bytes": 168048,
+      "sha256": "4346c68660485242e7d3880461b3a23969480abca1e927b41682586da9f2e0b5"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/German/ivector/final.ie",
+      "bytes": 8288887,
+      "sha256": "ff40661514cc028240f3f355732d1192b98962195c42e0ae3a11e84e161d3bbd"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/German/ivector/final.mat",
+      "bytes": 33775,
+      "sha256": "dc3f361dfec8f9535f9eea488ae4580b14389aee7b7e6757418f55916cdd0a67"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/German/ivector/global_cmvn.stats",
+      "bytes": 806,
+      "sha256": "81759e93b9e526a08b8bb9fe894300a03b3e1eb0841547f97a81d4e2bdc29590"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/German/ivector/online_cmvn.conf",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/German/ivector/splice.conf",
+      "bytes": 37,
+      "sha256": "a1b35baa82f5a6aebd43dad30186269c8cef1879a6a1a0c15efc4fae5ae6b62b"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Greek/README",
+      "bytes": 273,
+      "sha256": "5f9b10208e9353c45b9b2b3b383f3aa29b806c8a68ae0b07c9e3856afac38b84"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Greek/am/final.mdl",
+      "bytes": 45840782,
+      "sha256": "f3bf4cdd4bbfd0e050d267a1efd3f88dc3f86e3c131dd88b5c3452a6fb9e1ee7"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Greek/am/frame_subsampling_factor",
+      "bytes": 1,
+      "sha256": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Greek/am/tree",
+      "bytes": 280396,
+      "sha256": "062e56094e2a671c6d5d69d9764238143a1a76d07f7e3e2381341d38706ac9ea"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Greek/conf/ivector_extractor.conf",
+      "bytes": 219,
+      "sha256": "7a2a867d936992b10368fd7e079f5cb0bff4a2beb1b7fdce5b85e0e5e55eb203"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Greek/conf/mfcc.conf",
+      "bytes": 107,
+      "sha256": "f4b7deca59c6f7076708a0c27f4000507db272c1233dadbce59cf8934b0d1b04"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Greek/conf/model.conf",
+      "bytes": 289,
+      "sha256": "5be64db91cc7895d29a61dafc88e61d7de9c2ffba9d2f7bffc0f16df02ece6aa"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Greek/conf/online.conf",
+      "bytes": 152,
+      "sha256": "00f841a7097f5b97a85dec922ed0ccb5cf80e56638913f4bbd39be993ca8de9a"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Greek/decode.sh",
+      "bytes": 1212,
+      "sha256": "7b94f359e375753dd99c993f368ef345ba901a6ab21af603ed2e64fa9259b62f"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Greek/decoder-test.scp",
+      "bytes": 30,
+      "sha256": "2bb1ac7ab5cb7be4243b561e06a975ba413921033e35620996afab27be0e5b47"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Greek/decoder-test.utt2spk",
+      "bytes": 26,
+      "sha256": "623e70dedf8d2e3406e92f23d177c96ad586e81ad14a8ffbc6d7032932f24422"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Greek/decoder-test.wav",
+      "bytes": 43244,
+      "sha256": "8773407ea08a9455012b378baf50c3c66db8142008533458d008cdadcea39e6a"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Greek/graph/HCLG.fst",
+      "bytes": 324956521,
+      "sha256": "24b1b0c5415956bb2338abb30133049fe3844c75b525cee2c849eccb8e8e5919"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Greek/graph/disambig_tid.int",
+      "bytes": 114,
+      "sha256": "cf559aa97197a152f0803669d34072035e1c848197a60439cb4cfc20437023c9"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Greek/graph/num_pdfs",
+      "bytes": 5,
+      "sha256": "d1f02411285929ea2f7a0b16a43ee8915ee1cadf87b5e35ac79a320bf2aa4095"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Greek/graph/phones.txt",
+      "bytes": 1262,
+      "sha256": "44a376887b37167815dcbd620e57d40a9c291bc9a250c9efba2f7e0c4ba2f868"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Greek/graph/phones/align_lexicon.int",
+      "bytes": 33392004,
+      "sha256": "cb7dff3458c75b95d96a9b2fb9d30bc0a8e25f0bdc66bd7f7cf57fc0320397ac"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Greek/graph/phones/align_lexicon.txt",
+      "bytes": 63193721,
+      "sha256": "a34e6684a5e891a32d55997b2b1717e3fd6b7f032df614942bfa777a135a9dd0"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Greek/graph/phones/context_indep.csl",
+      "bytes": 21,
+      "sha256": "8d99bf63ef15987b60950cfd42d9484d3a4b16e679cd355ac98b439bb8f16147"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Greek/graph/phones/context_indep.int",
+      "bytes": 21,
+      "sha256": "bf794518e35d7f1ce3a50b3058c4191bb9401e568fc645d77e10b0f404cf1f22"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Greek/graph/phones/context_indep.txt",
+      "bytes": 56,
+      "sha256": "5c4136a09efdad7e7f1755ede301cf8552cd56b119f5255e85f0939c475927d6"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Greek/graph/phones/disambig.csl",
+      "bytes": 76,
+      "sha256": "5244ba2d93e3dde58b0e0587c1c98b23ccd07c02beaf3eff7f6246255bb305a7"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Greek/graph/phones/disambig.int",
+      "bytes": 76,
+      "sha256": "88e13e635e2a137d6d16899ad89d2505e7a5369a5a1a28e9822d9d4d916ae8a6"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Greek/graph/phones/disambig.txt",
+      "bytes": 66,
+      "sha256": "72ea456cc53191f83b7ba5fce5a0445490bbaee1ee6d47c30a21b6617be9d7e3"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Greek/graph/phones/extra_questions.int",
+      "bytes": 460,
+      "sha256": "10b88248da97c65a16e4afcdc98bcbe2fc0136af3065947aa36c8d93ae2df806"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Greek/graph/phones/extra_questions.txt",
+      "bytes": 661,
+      "sha256": "d95b1f91d7b803acb603664848ece51767c0ae5f41a94a5d537baff6b7d23f8c"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Greek/graph/phones/nonsilence.csl",
+      "bytes": 439,
+      "sha256": "28c6e34ae749194fad1ea726423a56acfb1ffe18b5e47245112e83e82f92758f"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Greek/graph/phones/nonsilence.int",
+      "bytes": 439,
+      "sha256": "e6cd82557e0eed5d942f3a2ff00c4a2bd24b9cd52ccd083f737843570a207389"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Greek/graph/phones/nonsilence.txt",
+      "bytes": 596,
+      "sha256": "78f393d54dd727fe8069f67946651ab57d47e733f445172f54c02c2bb54bcfc3"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Greek/graph/phones/optional_silence.csl",
+      "bytes": 2,
+      "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Greek/graph/phones/optional_silence.int",
+      "bytes": 2,
+      "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Greek/graph/phones/optional_silence.txt",
+      "bytes": 4,
+      "sha256": "ebe5d1c9a1dc955e8b0e9d16062b2d6fede3ba741afdb9a6aec65810009bee11"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Greek/graph/phones/roots.int",
+      "bytes": 915,
+      "sha256": "c178c81e629c817174beee2eb2963a02522ff31d3cbb93cc0ca82a34d0349a3b"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Greek/graph/phones/roots.txt",
+      "bytes": 1107,
+      "sha256": "d0154b9247fbf57be942925cecf9b4253bd44ba288552c1ff5edad1b22f93255"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Greek/graph/phones/sets.int",
+      "bytes": 460,
+      "sha256": "7571e05868b52e63db82b67fb65b230155e19df89a4bc8c77e0d245b4149b8b8"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Greek/graph/phones/sets.txt",
+      "bytes": 652,
+      "sha256": "ca544f9764058737179d580f9064fcfd86f0b2c9eab5cbe1de1ede8b6a614363"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Greek/graph/phones/silence.csl",
+      "bytes": 21,
+      "sha256": "8d99bf63ef15987b60950cfd42d9484d3a4b16e679cd355ac98b439bb8f16147"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Greek/graph/phones/silence.int",
+      "bytes": 21,
+      "sha256": "bf794518e35d7f1ce3a50b3058c4191bb9401e568fc645d77e10b0f404cf1f22"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Greek/graph/phones/silence.txt",
+      "bytes": 56,
+      "sha256": "5c4136a09efdad7e7f1755ede301cf8552cd56b119f5255e85f0939c475927d6"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Greek/graph/phones/wdisambig.txt",
+      "bytes": 3,
+      "sha256": "3d0514185746ee70095cb7d671c38522094268b4f0c46283ca13bb7c8841fadb"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Greek/graph/phones/wdisambig_phones.int",
+      "bytes": 4,
+      "sha256": "9d9b18720961e9b4689fd763b85e7b6f36160ccd3a8a1c9ddc5103bb0f66c396"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Greek/graph/phones/wdisambig_words.int",
+      "bytes": 7,
+      "sha256": "b43c44a55e692f61bc7f2908f9d3904e740a0e67d92bd9de00c23144eb43dfe3"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Greek/graph/phones/word_boundary.int",
+      "bytes": 1491,
+      "sha256": "07fb14126892d3e2f5159d4ecfda1c01f6cb38e7eb7239a5c5a2b94c6bc86a74"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Greek/graph/phones/word_boundary.txt",
+      "bytes": 1683,
+      "sha256": "967a61ef6707096cb513a61a327c095b8248afe5ee3250fd10f43d01714de614"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Greek/graph/words.txt",
+      "bytes": 20706873,
+      "sha256": "1fcda8e721f89535403f7cffc2dd85acc4b600e05df97b2faf8069468cffc10f"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Greek/ivector/final.dubm",
+      "bytes": 168048,
+      "sha256": "0d1e9ce70423dd2ceca503fbf27213b7ca838e006511341b01e1ed7dc1a884b9"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Greek/ivector/final.ie",
+      "bytes": 8288887,
+      "sha256": "edac749aa63c4fe8f1d6d2d80f281b65c8bac979d495213399d75384f0ea0a3b"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Greek/ivector/final.mat",
+      "bytes": 22575,
+      "sha256": "dd491cf007af231a8675114d3f8bf51d2afc043bc5c6288b1e274ec923da7cf7"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Greek/ivector/global_cmvn.stats",
+      "bytes": 543,
+      "sha256": "e83af863c860deaaad7da598ea85b88e2c71acbbbe4c91dcd0a0872c597ad817"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Greek/ivector/online_cmvn.conf",
+      "bytes": 95,
+      "sha256": "a2f3571754b64297cb7efb2e7ca3df61995c5a45fcbb97188f90613552bb2dfe"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Greek/ivector/splice.conf",
+      "bytes": 35,
+      "sha256": "9f0c5f7c82d18eaf25d8bce470efa9f7741f88411fe428774bc0a9bb69a24756"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Greek/local/int2sym.pl",
+      "bytes": 1817,
+      "sha256": "b288f3ce14d829542da11f526373ca9238617d7659ee21e320ad2342f92033ca"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Greek/other/el-gr-4g.gz",
+      "bytes": 522154664,
+      "sha256": "1dce42bc86961559ef5af20a7fae4301956db44d90856951f079c2133099f3b5"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Greek/other/el-gr-small.lm.gz",
+      "bytes": 31460785,
+      "sha256": "33cc9a7aeccbe00bfc5eb288d65b13d3d891fa44e6e5b97b0c05fcc959cc343a"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Greek/other/el-gr.dic",
+      "bytes": 33394766,
+      "sha256": "c2c245bfc3c295209858d08be45f9903c395acf9f03e75c5bd876fc7600d60d1"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Greek/rescore/G.carpa",
+      "bytes": 525581584,
+      "sha256": "1ca908ed4ca5872915f6d21f64861d595b81164b359c84f317d56ddc16a6548b"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Greek/rescore/G.fst",
+      "bytes": 58873882,
+      "sha256": "8b95ea6926a11309d3104135fd2a3506f0e0de5d3015589b20e5b635ecbb4aed"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Italian/README",
+      "bytes": 27,
+      "sha256": "d9588dc1c6f2186ce022033d1370ce0d0ad95beac5f100cde2e01f4045f1fdf1"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Italian/am/final.mdl",
+      "bytes": 13810809,
+      "sha256": "053a546875e5db19b1d2443f02caf7b5aea204cbd5d5808786c3a0198251ea1a"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Italian/conf/mfcc.conf",
+      "bytes": 82,
+      "sha256": "cabb1ff8d684c488c21055ae2f304ef659b0cb3673de65a4f19c4af47e4900d8"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Italian/conf/model.conf",
+      "bytes": 289,
+      "sha256": "dd7178da0e99fdbe489816c1e9702c3daa28e02accacc2993e0becb7af33b80c"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Italian/graph/Gr.fst",
+      "bytes": 18330067,
+      "sha256": "235ff6e8342d290288778b939a4a56f79059d3231c65cd92f679673e90f6b9b5"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Italian/graph/HCLr.fst",
+      "bytes": 15690554,
+      "sha256": "be42af020a16df93f66b12611166844c5c467aebd0ab6fc3f14cbb139557d6cb"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Italian/graph/disambig_tid.int",
+      "bytes": 66,
+      "sha256": "0d647a0cbe45130b55e09cd2d4ce4a47496b19bf8f970b0224f65e7be0d30bba"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Italian/graph/phones/word_boundary.int",
+      "bytes": 1671,
+      "sha256": "191085a234a6635c021b6574321cd9927675f26c1b79be2cae2c9daa3b61b6e4"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Italian/ivector/final.dubm",
+      "bytes": 168048,
+      "sha256": "500cf5b9fc0bf9e9a0d1228e30ebaa33574fbe0c42e052ba599f4821dd890421"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Italian/ivector/final.ie",
+      "bytes": 8288887,
+      "sha256": "98007b08ff27bf06d1625445533c5c91701c8108247a0caa43b735ea74ed16b0"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Italian/ivector/final.mat",
+      "bytes": 22575,
+      "sha256": "f4e08d319bc3d4cc4ecc0c02677cdd667a7e6556f403eeef9ca2a8313273a763"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Italian/ivector/global_cmvn.stats",
+      "bytes": 559,
+      "sha256": "f91c174630cdfc9281d6a893a6a0776809feadc9611d9f60c4ee103d4e25e8be"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Italian/ivector/online_cmvn.conf",
+      "bytes": 95,
+      "sha256": "a2f3571754b64297cb7efb2e7ca3df61995c5a45fcbb97188f90613552bb2dfe"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Italian/ivector/splice.conf",
+      "bytes": 35,
+      "sha256": "9f0c5f7c82d18eaf25d8bce470efa9f7741f88411fe428774bc0a9bb69a24756"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Japanese/README",
+      "bytes": 499,
+      "sha256": "258b3b4f34f943d317b0fbca0778cb2669a19e0df84bece557daac8f0c58d6fc"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Japanese/am/final.mdl",
+      "bytes": 16061359,
+      "sha256": "1df788e2c183f7fb2474c876b987e28ce40cb198db4b1c2dcf094d9b8e3d44e2"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Japanese/conf/mfcc.conf",
+      "bytes": 128,
+      "sha256": "cdb0d516e5b8886092f1d840c628107703a65b571dc3b16b888a9a3978958b96"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Japanese/conf/model.conf",
+      "bytes": 289,
+      "sha256": "d8d91d310a9659fed2d89f8ea4996af6163a43c3ab008cd278e4264120551712"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Japanese/graph/Gr.fst",
+      "bytes": 30893295,
+      "sha256": "4f75f879f5c96b3a5983f8aa1b2df6e4c6f05a845d332d7f2cf410a64f095011"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Japanese/graph/HCLr.fst",
+      "bytes": 37684266,
+      "sha256": "c0bd905b506cce18ee6a46d0a13d3c8a3310fc7b4a6b76dd99e924ed691cddf9"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Japanese/graph/disambig_tid.int",
+      "bytes": 637,
+      "sha256": "af6cd4863c1951e2b0e61f687eac1cac03fc24993f839a9cefab643a83f3470e"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Japanese/graph/phones.txt",
+      "bytes": 2251,
+      "sha256": "a68f13d4d54a09c05326ec0610ceb2fee0ae59353546630926a44272b94581ea"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Japanese/graph/phones/word_boundary.int",
+      "bytes": 1761,
+      "sha256": "da199d9c991e0e84681ddbb34627b915b26302d50a8fdaa23c51e2bc3a50b5c3"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Japanese/graph/words.txt",
+      "bytes": 4066944,
+      "sha256": "26f18f875e172b710740926eb1c2692c790a1fee68be5f314b1f8c99f9bf2fc6"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Japanese/ivector/final.dubm",
+      "bytes": 168048,
+      "sha256": "ebae597e7674342d09ae0d73222260e5fbf0e3d352a3135168d1ca44189029c0"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Japanese/ivector/final.ie",
+      "bytes": 9927287,
+      "sha256": "71eb575f7d31721c09b1a82d58d8b5c233f73629129df864a30dba206bd25f66"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Japanese/ivector/final.mat",
+      "bytes": 44975,
+      "sha256": "4daa60ee31233f147fcc3b17a559bff5112ada7c14fbb20266e6748bc6ba9684"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Japanese/ivector/global_cmvn.stats",
+      "bytes": 1079,
+      "sha256": "5ce41441eaa105e0ab07e51ffb37a738a085a96aac3d9431a924de8dc7738ea7"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Japanese/ivector/online_cmvn.conf",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Japanese/ivector/splice.conf",
+      "bytes": 35,
+      "sha256": "9f0c5f7c82d18eaf25d8bce470efa9f7741f88411fe428774bc0a9bb69a24756"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Portuguese/Gr.fst",
+      "bytes": 16007119,
+      "sha256": "d81023936f5557c06930802b1db4880f56d6ac51b16ed4e5060ceba06895442c"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Portuguese/HCLr.fst",
+      "bytes": 15510922,
+      "sha256": "8b45be1fa72913d61e37ac0b411177803848f4cda7728f74139b39acd1c0cf36"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Portuguese/README",
+      "bytes": 29,
+      "sha256": "85353085fa2096ef12cac654fa9534b186bef9b56a61f544da3ebfbd006b78bb"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Portuguese/disambig_tid.int",
+      "bytes": 54,
+      "sha256": "ca8970bc50b8ae2452749f75f5a12049e511075f9fc3f63acc1526c280a33748"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Portuguese/final.mdl",
+      "bytes": 13549849,
+      "sha256": "3e10e43ec01cf8d968bcc24c626a2eae2bfa77863bee82f36a554854afa1f147"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Portuguese/ivector/final.dubm",
+      "bytes": 168048,
+      "sha256": "28dcdc395b13a2085d20f7a2e850ef7e5216ba33ded76391b9690dd60f5143de"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Portuguese/ivector/final.ie",
+      "bytes": 8288887,
+      "sha256": "9345786636c358c9539591da71fb685ae82d8a96ce5de533fb8ac5fdafa965f0"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Portuguese/ivector/final.mat",
+      "bytes": 22575,
+      "sha256": "e310571390a3183718fce914bb022d297777c7ed860892a1812b576a698ec420"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Portuguese/ivector/global_cmvn.stats",
+      "bytes": 547,
+      "sha256": "8848c2dcf9919fbb3db574cbce59f980c3b11107c29adfa1fc42a4faed27e1a8"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Portuguese/ivector/online_cmvn.conf",
+      "bytes": 95,
+      "sha256": "a2f3571754b64297cb7efb2e7ca3df61995c5a45fcbb97188f90613552bb2dfe"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Portuguese/ivector/splice.conf",
+      "bytes": 35,
+      "sha256": "9f0c5f7c82d18eaf25d8bce470efa9f7741f88411fe428774bc0a9bb69a24756"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Portuguese/mfcc.conf",
+      "bytes": 153,
+      "sha256": "d3d4c517da7e6d02ed85803eebf77bca3f7f48c9ab6dc035013250b36187f274"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Portuguese/phones.txt",
+      "bytes": 1923,
+      "sha256": "dc207b906747b59e9e3da0af30e8f8d6712c9897ad7df06929d4b2cae7ee13f1"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Portuguese/word_boundary.int",
+      "bytes": 2481,
+      "sha256": "b8f981d84d8765fb15003ac54ec0f9599efa65a00d6d4d60086e5969ad45ff01"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Russian/README",
+      "bytes": 668,
+      "sha256": "c9875c3f7c8c2cdb22e6f15d14f696d4967e6a2637bfd7f9aff6016d7ca5e16b"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Russian/am/final.mdl",
+      "bytes": 15862383,
+      "sha256": "36d67b53dc90d96ea48097f9e17e7c5937689ad76cb8bed25091317bbaf25919"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Russian/conf/mfcc.conf",
+      "bytes": 138,
+      "sha256": "ed70d6eb6dca5c45c046e624d438b61a20a2a379f7b1e790755493b6102bd4fb"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Russian/conf/model.conf",
+      "bytes": 299,
+      "sha256": "5c056da2275ff4678a2b291f0e8463f1bfbe5b1f244e4b196bf8a5b4b5761641"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Russian/graph/Gr.fst",
+      "bytes": 32288259,
+      "sha256": "189b4f67c69eb34b9d8b47b12f184665e5445667ca5264579b61c6b9eb2cef1e"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Russian/graph/HCLr.fst",
+      "bytes": 32993810,
+      "sha256": "0b096f4676f306aa3e60d2244ef1e24c5c699b8794acf3c3946b59bcc9dca831"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Russian/graph/disambig_tid.int",
+      "bytes": 30,
+      "sha256": "649bd4b396c8f438fe670ed1b0f69f278b31860021308f3f4a96e0047206eae0"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Russian/graph/phones/word_boundary.int",
+      "bytes": 2368,
+      "sha256": "5d8d48282e2f0d56ffbb6b8726e6f9025274af42f2950e4df19e67668ee94a03"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Russian/ivector/final.dubm",
+      "bytes": 168048,
+      "sha256": "7dffe22bd992d7274fba925632bded4756d82dfd9b962d3c703110251fdf35b8"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Russian/ivector/final.ie",
+      "bytes": 9927287,
+      "sha256": "94f2558d00fe199ac01409281352eb16707ec075baaf9cc0d7b53011583cfa0e"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Russian/ivector/final.mat",
+      "bytes": 44975,
+      "sha256": "956577d396b636fe359b4321f10df5ed6a76bdfdec366b4a2b7d3242e524f04f"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Russian/ivector/global_cmvn.stats",
+      "bytes": 1080,
+      "sha256": "88294485caab3e6945b0aa0ecd60cc217cf443b26194262772ca97f1e6187a71"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Russian/ivector/online_cmvn.conf",
+      "bytes": 96,
+      "sha256": "93b9503fd7d74d762a0a16e8b2de0056333332379fe1009818be5a33db823684"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Russian/ivector/splice.conf",
+      "bytes": 37,
+      "sha256": "a1b35baa82f5a6aebd43dad30186269c8cef1879a6a1a0c15efc4fae5ae6b62b"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Spanish/Gr.fst",
+      "bytes": 19567467,
+      "sha256": "47c953854ecec387ebd49733bd3b77e1ecdd10c2470b68467d44d787e663b4a6"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Spanish/HCLr.fst",
+      "bytes": 13752274,
+      "sha256": "359bca3c4b79dae3446a5118c02a7748376f251756c26fd81f7408398ae83187"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Spanish/README",
+      "bytes": 27,
+      "sha256": "6d3790d46e0894c773f318837b80ca95233f5685916f20b5639eed4e2cd20793"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Spanish/disambig_tid.int",
+      "bytes": 54,
+      "sha256": "3d52334868b0880d97ca49b8a055663b1de55f13d78f02632a3d7abb0e898475"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Spanish/final.mdl",
+      "bytes": 13575093,
+      "sha256": "b6de917698fb580f49e8674b4c982db1f4920d09450e629f8b0be6ca40f41324"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Spanish/ivector/final.dubm",
+      "bytes": 168048,
+      "sha256": "08cbed53b32c18e0bdf373380b28292e90ba6d7d82feb3f123d5ab5299de735c"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Spanish/ivector/final.ie",
+      "bytes": 8288887,
+      "sha256": "9342d2382f1c9b6039cedbd810609cb4f5b99a2dff5c5dd244f0d38d0745aca7"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Spanish/ivector/final.mat",
+      "bytes": 22575,
+      "sha256": "8900c578b0a17abe40ed5e1b560be5b231f2252ccba038d12817bff752656d63"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Spanish/ivector/global_cmvn.stats",
+      "bytes": 546,
+      "sha256": "8adf561d91d40ef72cff30aa006d51ddd746f95e891d5bbe9d3a698471b3bf98"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Spanish/ivector/online_cmvn.conf",
+      "bytes": 96,
+      "sha256": "93b9503fd7d74d762a0a16e8b2de0056333332379fe1009818be5a33db823684"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Spanish/ivector/splice.conf",
+      "bytes": 37,
+      "sha256": "a1b35baa82f5a6aebd43dad30186269c8cef1879a6a1a0c15efc4fae5ae6b62b"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Spanish/mfcc.conf",
+      "bytes": 161,
+      "sha256": "8ad6e612bf219791e59298ff5841ba6cd10076155e6c8b5f8262d34bb9f486aa"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Spanish/word_boundary.int",
+      "bytes": 1241,
+      "sha256": "e494aea9300f6c8ccdd60b464b960bd0dca27a6e4b5647848b5e280639bb9574"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Swedish/README",
+      "bytes": 165,
+      "sha256": "a12f261eba1b365fe54a1edd0eb92cfba7686ab05b3847bad8f3a4719e42c13e"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Swedish/am/cmvn_opts",
+      "bytes": 37,
+      "sha256": "c10fae89f7a8b627b95c324cb23e0730ebf6a5326bd3468b698b32587a664986"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Swedish/am/final.mdl",
+      "bytes": 12312333,
+      "sha256": "3fef6bcfa0a9dd8c76fc6ed1ac1153969384eca54578c5e9bde95cd8b33f125b"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Swedish/am/tree",
+      "bytes": 456728,
+      "sha256": "69b0bf7f72592ddf81e23c3b0699998078e5176399e0e41c67cb0eed286aee19"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Swedish/conf/mfcc.conf",
+      "bytes": 670,
+      "sha256": "ad36416bce0ac9edfb0fdf9df61e128cf44d6e574cf0c681bf95f4677b3b5d72"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Swedish/conf/model.conf",
+      "bytes": 305,
+      "sha256": "2ea6933bae231c85f9b8131b910622fe6be6878f4284237d959fe0583e8f0f2f"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Swedish/graph/HCLG.fst",
+      "bytes": 771819877,
+      "sha256": "a19bda9bd3e6081574a6b5c1093b0c178b55f5509fbfd7efddab94b074f8633a"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Swedish/graph/disambig_tid.int",
+      "bytes": 36,
+      "sha256": "0a69f7db402141037955e8ae8001db62a4fd1f198756a1cdf3220d24243a539c"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Swedish/graph/phones.txt",
+      "bytes": 1338,
+      "sha256": "ddb6c127713943eec46b1b3252d78422adf4a9c3df511c326595379b38cac830"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Swedish/graph/phones/word_boundary.int",
+      "bytes": 1638,
+      "sha256": "20082fb555a655e34c151163be868a28a150f46227f1c568f05bfcdb16c1c605"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Swedish/graph/words.txt",
+      "bytes": 1500382,
+      "sha256": "b01959ebddc801f2b468db8f463e3148d59a73ea816f633dedec8e33662d2984"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Swedish/ivector/final.dubm",
+      "bytes": 168048,
+      "sha256": "cc4320a5e06587d5cdf94a77fd89620337f8f1ccae1e7b0ea902bb04c39783d6"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Swedish/ivector/final.ie",
+      "bytes": 19757687,
+      "sha256": "49526ba32f23a1111e316be7f38bdea9cf7da0b584c71f99850b994091b8c5be"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Swedish/ivector/final.mat",
+      "bytes": 44815,
+      "sha256": "b0236fcc34a8b224a7c09bbc925310203c303747187640fa1f323ba7e5a7c4e2"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Swedish/ivector/global_cmvn.stats",
+      "bytes": 1083,
+      "sha256": "79c655a89be345127e0bf3566860e00d0fe07a54c080e10592e5155132de84d9"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Swedish/ivector/online_cmvn.conf",
+      "bytes": 108,
+      "sha256": "93fb4bfbc9915676e831f3cd0688c9616831ec56903dd606f972c1890cd23d97"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Swedish/ivector/splice.conf",
+      "bytes": 35,
+      "sha256": "9f0c5f7c82d18eaf25d8bce470efa9f7741f88411fe428774bc0a9bb69a24756"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Turkish/Gr.fst",
+      "bytes": 22638543,
+      "sha256": "b0611e9818dcdaea7e51f13ed6ee0abf0a7865ea65e0a4a54b8286e200c759f0"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Turkish/HCLr.fst",
+      "bytes": 14343546,
+      "sha256": "5191cc99a52b8f79a783a612ffbcbcae6e640ee171c1c500fccdd98f03cb17c8"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Turkish/README",
+      "bytes": 15,
+      "sha256": "4b76b761e390454df561f0c9fc47116f32f5d0ae041010697dbc019407f24050"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Turkish/disambig_tid.int",
+      "bytes": 35,
+      "sha256": "fef531486c5f4899fa68d6ef75c6d6decb57adfa371021e601b3d45cc5e29f4e"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Turkish/final.mdl",
+      "bytes": 13304273,
+      "sha256": "229b73463581b05a60609e5e54d3c6bb84973a37c5055218d2c587e85b2dbfd8"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Turkish/ivector/final.dubm",
+      "bytes": 168048,
+      "sha256": "9e86190477f50741674b4c57269fcafc3f6b26b7f3cc7dc1c6c172ef1297ba04"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Turkish/ivector/final.ie",
+      "bytes": 8288887,
+      "sha256": "952cabf753b82d2d2686f473ac4f60776d65120f198a90cbbd469a39f9d0b9d5"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Turkish/ivector/final.mat",
+      "bytes": 22575,
+      "sha256": "f9527f42cfa22bacc8134177b8d77078d7c2b850c187809c5238d6bfd3665a2e"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Turkish/ivector/global_cmvn.stats",
+      "bytes": 550,
+      "sha256": "8ded5e19b6ca89744c8cc5002ea3de55910fca18b15bec0be4badbb4e973575f"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Turkish/ivector/online_cmvn.conf",
+      "bytes": 95,
+      "sha256": "a2f3571754b64297cb7efb2e7ca3df61995c5a45fcbb97188f90613552bb2dfe"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Turkish/ivector/splice.conf",
+      "bytes": 35,
+      "sha256": "9f0c5f7c82d18eaf25d8bce470efa9f7741f88411fe428774bc0a9bb69a24756"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Turkish/mfcc.conf",
+      "bytes": 82,
+      "sha256": "42b1450e80757f2702bd640ff6c0aa4b3809610754f883bac6fd26eea2699107"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Turkish/word_boundary.int",
+      "bytes": 1311,
+      "sha256": "876fef2ab58a0aedc814fb7032fd6a1d3ec3b58825dfcba0657f542d2423b5e2"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Ukrainian/am/final.mdl",
+      "bytes": 22163394,
+      "sha256": "13300029ec57992bb0c0b25063e2103823329b0e00260e07b1a67f444c0ef6ba"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Ukrainian/conf/mfcc.conf",
+      "bytes": 693,
+      "sha256": "274d4d8ff33c5783a5ff208ba82e8b6216e95854fa881cc2579945e9fd25f24f"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Ukrainian/conf/model.conf",
+      "bytes": 289,
+      "sha256": "facb8b258fea4707b755b4a314bd91e22615180c668c4d494415bf6930a18b0e"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Ukrainian/graph/Gr.fst",
+      "bytes": 83874673,
+      "sha256": "6188412a28b164a543f0f287751738479987cdfc201c24dba05f2c8b3710f000"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Ukrainian/graph/HCLr.fst",
+      "bytes": 263833194,
+      "sha256": "c44755aca6b54a5e97f9bb2e13f087b6cd18869a52c2e8ab033ce9d409b98be3"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Ukrainian/graph/disambig_tid.int",
+      "bytes": 72,
+      "sha256": "9d8dc448fc4ee07dd763af28acf360a907448d66d65e646f5a929c71a74add90"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Ukrainian/graph/phones/word_boundary_.int",
+      "bytes": 4281,
+      "sha256": "448ad28cfbd8cf5329407c4ef34abbaeda5cc42904fdd1dcd84722d961501ba7"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Ukrainian/graph/words.txt",
+      "bytes": 46483931,
+      "sha256": "9405808ebe3356d8179830e1ae66671cbcc18e6af19d90776ce01a5bf6eb8fff"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Ukrainian/ivector/final.dubm",
+      "bytes": 168048,
+      "sha256": "dab6cddaf21611816343ce130bdd3060b1a461388e8f9dda47fbc3deff14e3a3"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Ukrainian/ivector/final.ie",
+      "bytes": 19757687,
+      "sha256": "7dccf49ea02201593d2e52797a94555aef4456902c7d96ea2513fb079005fb7b"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Ukrainian/ivector/final.mat",
+      "bytes": 44975,
+      "sha256": "92b3af4ae0e077041492a2f1bea51e20b5cb71e3d30d445af74fe050e301824b"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Ukrainian/ivector/global_cmvn.stats",
+      "bytes": 1079,
+      "sha256": "bf866d4721dce0db6aaa028438c489255c423dcab468a3c5cf8060462a3676b7"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Ukrainian/ivector/online_cmvn.conf",
+      "bytes": 95,
+      "sha256": "a2f3571754b64297cb7efb2e7ca3df61995c5a45fcbb97188f90613552bb2dfe"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Ukrainian/ivector/splice.conf",
+      "bytes": 35,
+      "sha256": "9f0c5f7c82d18eaf25d8bce470efa9f7741f88411fe428774bc0a9bb69a24756"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/LanguageModels/Ukrainian/ivector/splice_opts",
+      "bytes": 35,
+      "sha256": "0c7038d5c0dda2b307d27fc9f6aaef3eda2257bfdbce95f333e2077a5ff0a222"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/Ps5_Save_Icon.png",
+      "bytes": 369921,
+      "sha256": "249f73b693f358fd53b28f471c26329ab56da300475b2ffeea2864310959ce9c"
+    },
+    {
+      "path": "Phasmophobia_Data/StreamingAssets/UnityServicesProjectConfiguration.json",
+      "bytes": 3566,
+      "sha256": "44f393d7cca3310ad76bc2fc61a1f36e520454c6b15d30319feda4e5e71cfba9"
+    },
+    {
+      "path": "Phasmophobia_Data/UnitySubsystems/OculusXRPlugin/UnitySubsystemsManifest.json",
+      "bytes": 347,
+      "sha256": "e92546870de7212578056142208bedd02b0a2bbcf00899d09c2d618ef04aa75b"
+    },
+    {
+      "path": "Phasmophobia_Data/UnitySubsystems/UnityOpenXR/UnitySubsystemsManifest.json",
+      "bytes": 334,
+      "sha256": "b428cd0dc19a8d0f6293733319c8e006c6da7ad5b0f2313850fac4aa269abee4"
+    },
+    {
+      "path": "Phasmophobia_Data/app.info",
+      "bytes": 26,
+      "sha256": "80d912feb9f7af92c20038e58f1be79e7afc7c1fa9b6c4e16d8bfc671d9e26e6"
+    },
+    {
+      "path": "Phasmophobia_Data/boot.config",
+      "bytes": 240,
+      "sha256": "7d284ba9eeeaae25285ae7cffc23dccf79489a2443cbfea25cc6304d4fedcf45"
+    },
+    {
+      "path": "Phasmophobia_Data/globalgamemanagers",
+      "bytes": 5622868,
+      "sha256": "7cb69a18ec71cb62fadabc95198d76f05140894e380165294a3533057ad6cc9b"
+    },
+    {
+      "path": "Phasmophobia_Data/globalgamemanagers.assets",
+      "bytes": 3785024,
+      "sha256": "b6aa0cd1a63a7d937287cbc37d8991b6b3cafee18992ebb79cc62589f1318215"
+    },
+    {
+      "path": "Phasmophobia_Data/globalgamemanagers.assets.resS",
+      "bytes": 12887920,
+      "sha256": "1c7bc311b154e8c3980d5e4f36265ef0f782ea841b68e89bf7746b8dccf4bc19"
+    },
+    {
+      "path": "Phasmophobia_Data/il2cpp_data/Metadata/global-metadata.dat",
+      "bytes": 26863188,
+      "sha256": "a1d282afc5a7dada6617f30f0b8a595a8bc5ce32f27cd81baf38903711c68253"
+    },
+    {
+      "path": "Phasmophobia_Data/il2cpp_data/Resources/Mono.Data.Sqlite.dll-resources.dat",
+      "bytes": 34477,
+      "sha256": "e50a7e07a02e32d62e3d313cb67237ecb870d29dca6e5fab511798fa97aa23e1"
+    },
+    {
+      "path": "Phasmophobia_Data/il2cpp_data/Resources/System.Data.dll-resources.dat",
+      "bytes": 93718,
+      "sha256": "98a7950ec6de3242c2e190dfa630188dfa32511a125542b94baa952d1c757d49"
+    },
+    {
+      "path": "Phasmophobia_Data/il2cpp_data/Resources/System.Drawing.dll-resources.dat",
+      "bytes": 25453,
+      "sha256": "7c33aa707bc3fdc83991b81a97d6fc622b140762a767300f08f616c2c0a91255"
+    },
+    {
+      "path": "Phasmophobia_Data/il2cpp_data/Resources/mscorlib.dll-resources.dat",
+      "bytes": 337563,
+      "sha256": "c5baa176a5b72cd545266340e42102d393a5e43d38c95796bc828918bb95277f"
+    },
+    {
+      "path": "Phasmophobia_Data/level0",
+      "bytes": 31180,
+      "sha256": "84d8a4fb0e0ea6df252bfae74919bafd97911fc9a85052ccb50ed69ed2f05ef3"
+    },
+    {
+      "path": "Phasmophobia_Data/level0.resS",
+      "bytes": 131232,
+      "sha256": "c4d816415943324f916707cbc7843be3b198f559082f66c0dbf10689c7913632"
+    },
+    {
+      "path": "Phasmophobia_Data/level1",
+      "bytes": 474880,
+      "sha256": "f0bd10ff6d5f123563f6f6a1463bbd6280174aef2ced336896ee54ee2ece6bed"
+    },
+    {
+      "path": "Phasmophobia_Data/level10",
+      "bytes": 96472696,
+      "sha256": "fab9b701ea97b5ba54db5ce28da44e6e0cdd1c644722ffc72d01866527d2fb68"
+    },
+    {
+      "path": "Phasmophobia_Data/level10.resS",
+      "bytes": 36512064,
+      "sha256": "53c3965825bcfc2df4f2fe79e21c5eec697c97be97166145ea9f18d73c3e5f51"
+    },
+    {
+      "path": "Phasmophobia_Data/level11",
+      "bytes": 79106736,
+      "sha256": "3ef97bee88226955bc83a7d7e1f93f7e722f959f0c87fcbca0cf9569854e52cb"
+    },
+    {
+      "path": "Phasmophobia_Data/level12",
+      "bytes": 81111288,
+      "sha256": "b1fae005ccbcbac54f178481805c9bf3d1db31fa700dad6fe8aa13005ad36e14"
+    },
+    {
+      "path": "Phasmophobia_Data/level13",
+      "bytes": 100794752,
+      "sha256": "fdaf25c1bf77502a6f7225673f7e93df8a648f1dfc0bb3f8edab1a44b582df72"
+    },
+    {
+      "path": "Phasmophobia_Data/level13.resS",
+      "bytes": 18915648,
+      "sha256": "258c2e31c1f2466176b06b0f3ab1a7b03bfe5e121ff6e4e40610dcf16e6b0496"
+    },
+    {
+      "path": "Phasmophobia_Data/level14",
+      "bytes": 80117944,
+      "sha256": "239839709ccaa9c3585fca50827e4110521e218c8d2e76d2f3586af483ecece5"
+    },
+    {
+      "path": "Phasmophobia_Data/level15",
+      "bytes": 88213000,
+      "sha256": "00af1a1f1ce0d850dc982eaee15a84cf4f58a472af4cba08d796e87f7f435830"
+    },
+    {
+      "path": "Phasmophobia_Data/level16",
+      "bytes": 993152,
+      "sha256": "9f3afde2166e81307584aeed6c116005cf747e2f2c33e50b9d1234ddae0bb7d5"
+    },
+    {
+      "path": "Phasmophobia_Data/level17",
+      "bytes": 2025300,
+      "sha256": "d329312c8963a597f0c82791a74a590d7d4557cfdf420f5b785526af3b68d8cd"
+    },
+    {
+      "path": "Phasmophobia_Data/level18",
+      "bytes": 1169900,
+      "sha256": "4dfbf52d11e2ccf570d59b447366a8da9b88e292525668ba0880caef11ff03da"
+    },
+    {
+      "path": "Phasmophobia_Data/level19",
+      "bytes": 2050756,
+      "sha256": "b21f3f1d50abfd3fb235fab92d3bf889305c3d760cd8396542a12a741d1fcda9"
+    },
+    {
+      "path": "Phasmophobia_Data/level2",
+      "bytes": 38254740,
+      "sha256": "cad993c71ced3213187539c0c4f7090379af98b7e8840b739d3e3dfadf3f3563"
+    },
+    {
+      "path": "Phasmophobia_Data/level20",
+      "bytes": 1853368,
+      "sha256": "6cae72d509accf0596b7d4221f2344074180ce1774050303c2b19cbe3473535d"
+    },
+    {
+      "path": "Phasmophobia_Data/level21",
+      "bytes": 546712,
+      "sha256": "c9cfdb03731674763f9c54d982605ecbcf3e021efa48e7bfc200ab10ca716079"
+    },
+    {
+      "path": "Phasmophobia_Data/level22",
+      "bytes": 23755780,
+      "sha256": "97c224f3fefb555a2854d69a6362b704bf2ea29aa52d8ce56ef3dab4a81e4a69"
+    },
+    {
+      "path": "Phasmophobia_Data/level23",
+      "bytes": 23695260,
+      "sha256": "ca6a23d66793931c6b91930652ddf493f41ab3da47bfeaabb59cd4d0e957b2fb"
+    },
+    {
+      "path": "Phasmophobia_Data/level24",
+      "bytes": 23530060,
+      "sha256": "93c671039210fac7beae13b717f972686e148f61c266b1bf441a6c1d92eaeee0"
+    },
+    {
+      "path": "Phasmophobia_Data/level25",
+      "bytes": 88096160,
+      "sha256": "5bd228a674257f22e99b0d60faca5ad90b18da53390acf9033b0cf4d24b08a62"
+    },
+    {
+      "path": "Phasmophobia_Data/level26",
+      "bytes": 940920,
+      "sha256": "80ef75ebb298b546183d70cef5618232d779f24a9efd32f6bdb180a85b3ca5dd"
+    },
+    {
+      "path": "Phasmophobia_Data/level27",
+      "bytes": 2631296,
+      "sha256": "1c5260b84726bee9c1d010b8be341dcd685c5ff5d57e93ad21c426e0cba57d14"
+    },
+    {
+      "path": "Phasmophobia_Data/level28",
+      "bytes": 3336224,
+      "sha256": "c34792a73017c609c10cbef6f7a190cb728ca556601599df80f0c1e340d5b7c0"
+    },
+    {
+      "path": "Phasmophobia_Data/level29",
+      "bytes": 23821000,
+      "sha256": "863ebca612b6e399e299f0f55367cd895861adcf2d9b00a4d775e1b5123b6321"
+    },
+    {
+      "path": "Phasmophobia_Data/level3",
+      "bytes": 8764376,
+      "sha256": "1ac37e1182d2eebeb1085d4da8a3a7b849b8d6a2fbc49185fe512ab101b275ff"
+    },
+    {
+      "path": "Phasmophobia_Data/level30",
+      "bytes": 9596,
+      "sha256": "4799369e4b92fe1490e5e02dcec60736371c26fda9f090b866fc5567a2e8287b"
+    },
+    {
+      "path": "Phasmophobia_Data/level31",
+      "bytes": 402664,
+      "sha256": "ee20180aaca8156e7f3bf4408febeb07c8fae3f6df2ffd7303726b5956adadf9"
+    },
+    {
+      "path": "Phasmophobia_Data/level32",
+      "bytes": 49352,
+      "sha256": "91eb1bc049089fa4936e833df6f438b2e83c06e6a02f20b5a271db66d2f6d29c"
+    },
+    {
+      "path": "Phasmophobia_Data/level33",
+      "bytes": 9460,
+      "sha256": "eb3dc2cafe59d72c4fa66f30db555c0a519ccfa11a35b9db7f9fcf3985198376"
+    },
+    {
+      "path": "Phasmophobia_Data/level34",
+      "bytes": 1469112,
+      "sha256": "48d67cce406a8f753a4eed9a16c3d37c9cf487cccee6f5253d92b2bc9f05a4c0"
+    },
+    {
+      "path": "Phasmophobia_Data/level35",
+      "bytes": 3543344,
+      "sha256": "6fd604b4d950fd7bfb7762e4e8beb4624abeddbe55cf0c4437a0186850acc754"
+    },
+    {
+      "path": "Phasmophobia_Data/level36",
+      "bytes": 4018432,
+      "sha256": "199a7e0ac6313835dae78428a5bfb18377b43bb113c60f8d511ec9697458a259"
+    },
+    {
+      "path": "Phasmophobia_Data/level37",
+      "bytes": 2575264,
+      "sha256": "5abfbe1325a21aa6b2880cd81a7ec4e75fdccd869de08c4bba0821a48255b68f"
+    },
+    {
+      "path": "Phasmophobia_Data/level38",
+      "bytes": 23116,
+      "sha256": "f01ae7c30e5c1766e4102e02215622047685fc10abf23871446ae4a205e50bcd"
+    },
+    {
+      "path": "Phasmophobia_Data/level39",
+      "bytes": 2132,
+      "sha256": "f189cbaf8b014b0e9c516be08d795a9615511c7d38f1f75edccdfd51d1fa2dd9"
+    },
+    {
+      "path": "Phasmophobia_Data/level4",
+      "bytes": 88586232,
+      "sha256": "d7546bd4fec64dc9a6909b5b28bc7ee18fa8b959bd77802839d2bcff01e972b0"
+    },
+    {
+      "path": "Phasmophobia_Data/level40",
+      "bytes": 2476,
+      "sha256": "2f6f8961d44cc70e55717e97fcb128f427b32edb6a3691bd0316669396ea4482"
+    },
+    {
+      "path": "Phasmophobia_Data/level41",
+      "bytes": 12180,
+      "sha256": "9a5bf1c89250f5c57a37004e2c319f5aeeb3d3839078cb2ecdb90ecaa0bf2d33"
+    },
+    {
+      "path": "Phasmophobia_Data/level42",
+      "bytes": 12300,
+      "sha256": "ccce75c5254af0236dc4a843f6e49e80385fb4b2c2235e651d0713bed6b41d9e"
+    },
+    {
+      "path": "Phasmophobia_Data/level43",
+      "bytes": 83380472,
+      "sha256": "483f04fbb6657832de6d4465338b7b4368daa43b345fa95e1df806b180808a8d"
+    },
+    {
+      "path": "Phasmophobia_Data/level43.resS",
+      "bytes": 2228976,
+      "sha256": "47989975000de2e6bdaa856fe448f3ad633dcd8f48d05b1aedab92eabedde8e4"
+    },
+    {
+      "path": "Phasmophobia_Data/level44",
+      "bytes": 2132,
+      "sha256": "153b34d2e62aaef64b8563e852981156f66649aff432a10b052db6df4fc21be6"
+    },
+    {
+      "path": "Phasmophobia_Data/level45",
+      "bytes": 23921800,
+      "sha256": "d45b6eb642f1f00abbb85e3631fbcea040ac871c9fadfce3c6df06edac68cc9c"
+    },
+    {
+      "path": "Phasmophobia_Data/level46",
+      "bytes": 23353032,
+      "sha256": "72bf693f20d00b3f0e47f2bb6c9cc2063b80d2f35c20a36e6abc00ee24a8b333"
+    },
+    {
+      "path": "Phasmophobia_Data/level47",
+      "bytes": 23370416,
+      "sha256": "0df831e6d673c33f083aa554d700cf3ddd2d72c5eca7adb9e3b59b3cd8017712"
+    },
+    {
+      "path": "Phasmophobia_Data/level48",
+      "bytes": 23820048,
+      "sha256": "74f3c9f5a7cf422f6eb1a92527208bc30be772657cb1387c35646eaa9c705b7a"
+    },
+    {
+      "path": "Phasmophobia_Data/level49",
+      "bytes": 23308356,
+      "sha256": "f34102ef0f6c448b78bd9a045f248812bb03f9a010dd0c13f7c7d60f192fe417"
+    },
+    {
+      "path": "Phasmophobia_Data/level5",
+      "bytes": 159696768,
+      "sha256": "431996d90e79484b5ece2ebad798161c44d1b268a2e85fc1a29a47ab8b46924f"
+    },
+    {
+      "path": "Phasmophobia_Data/level5.resS",
+      "bytes": 134559360,
+      "sha256": "48bdb6d1b6c8115ad303acee19af8f94f89279a38b51310593bba940184a20ed"
+    },
+    {
+      "path": "Phasmophobia_Data/level50",
+      "bytes": 23295032,
+      "sha256": "27d1a0e847af933222c3c1e5a7342486d15d8e49cc46918fbfdf6ee71e279c27"
+    },
+    {
+      "path": "Phasmophobia_Data/level51",
+      "bytes": 2578296,
+      "sha256": "4accc7db7c54e78c9dfc40c8784a4dc1f5ff57c17a4597f0e33c769140af43d6"
+    },
+    {
+      "path": "Phasmophobia_Data/level52",
+      "bytes": 26124,
+      "sha256": "a4ee6c7f1904115d6af9b07bc103e3940dedc0fb2452e0708b716c4eec9596ac"
+    },
+    {
+      "path": "Phasmophobia_Data/level53",
+      "bytes": 14868,
+      "sha256": "02cebb50073e5c5c2e52c51884e789ece0857dd6b41095595325c3daef283d82"
+    },
+    {
+      "path": "Phasmophobia_Data/level54",
+      "bytes": 4513728,
+      "sha256": "64acab7600277d41839e5394d68e63be1cb1ce19b5b2f3d4980c8227592abb1a"
+    },
+    {
+      "path": "Phasmophobia_Data/level55",
+      "bytes": 1346792,
+      "sha256": "c81f20e4c51c6c0b5dfb69c99e5bfc8802508e56f81899131f5507b02c7418ff"
+    },
+    {
+      "path": "Phasmophobia_Data/level56",
+      "bytes": 1585288,
+      "sha256": "1818577e8084c3c928539887d5ae2000685f8606c569074a28bb3eee3f3fa818"
+    },
+    {
+      "path": "Phasmophobia_Data/level57",
+      "bytes": 1933276,
+      "sha256": "6466fbe5e28e1c8d41d0f4315b0232cd8f8364da6ffbd34f8f9a72ebbd75a7c6"
+    },
+    {
+      "path": "Phasmophobia_Data/level58",
+      "bytes": 4181184,
+      "sha256": "9167e92167c0f7c6a9f5ff8d7badd5e849dd0ac2e9efb10be303959697b949ec"
+    },
+    {
+      "path": "Phasmophobia_Data/level59",
+      "bytes": 3285552,
+      "sha256": "746a658dd03557e454266c32872e4ab1b7b06729cd6c7724cb0a19d9e46d05d2"
+    },
+    {
+      "path": "Phasmophobia_Data/level6",
+      "bytes": 74667792,
+      "sha256": "0a0d8e4121e23f7ca7a251c1968454d8fbff1efe33b40e538c5dc13e981cc1f6"
+    },
+    {
+      "path": "Phasmophobia_Data/level60",
+      "bytes": 105614288,
+      "sha256": "170518c686250eb2ede855aa400729e022495e2c0c92fa5940deff1725062339"
+    },
+    {
+      "path": "Phasmophobia_Data/level60.resS",
+      "bytes": 35580736,
+      "sha256": "a5ddb4768178e3652cffb04efd4e298a5bda11e9f691aef9a77a690c9fe18546"
+    },
+    {
+      "path": "Phasmophobia_Data/level61",
+      "bytes": 102977496,
+      "sha256": "e58e01eb72cc5caf3a619207adab0d22913cdba2ff6ae5c2d30e79b9a547a008"
+    },
+    {
+      "path": "Phasmophobia_Data/level61.resS",
+      "bytes": 36643296,
+      "sha256": "6c318b2818f4bee125b6be449e9ed5e29c38b9354b5c539c2661f3c271d96d47"
+    },
+    {
+      "path": "Phasmophobia_Data/level62",
+      "bytes": 94460368,
+      "sha256": "759933c097fcfe562f27b293dda2f070d92557e863b355e9e95cffa9f79ddb7a"
+    },
+    {
+      "path": "Phasmophobia_Data/level63",
+      "bytes": 82872656,
+      "sha256": "b18fa0b69e6db9e08d69c4321be57f3398f81010c4749abac46dc65281ba6fc3"
+    },
+    {
+      "path": "Phasmophobia_Data/level64",
+      "bytes": 476960,
+      "sha256": "90a7570fd151b06c441b3faafb2d4253f72bce7d79f9d1820bbfd9365cec920f"
+    },
+    {
+      "path": "Phasmophobia_Data/level65",
+      "bytes": 73861512,
+      "sha256": "28dc305060546654d5f740c4df0f384573f3ea2c25fe3dc39989e6bc0b601889"
+    },
+    {
+      "path": "Phasmophobia_Data/level66",
+      "bytes": 4052,
+      "sha256": "073fa89924fcad1a9012720f86551bacd8a060f676b9e1a91f19b5dfa770e128"
+    },
+    {
+      "path": "Phasmophobia_Data/level67",
+      "bytes": 9558392,
+      "sha256": "6dbee63f86aa3f93aab67433fee2cea432808a15a423e37d457e6eef2f65e00a"
+    },
+    {
+      "path": "Phasmophobia_Data/level7",
+      "bytes": 74564216,
+      "sha256": "756ec91e41da7ec8106c34d2f87b322793752d7ec48b3c570f96d712a07388eb"
+    },
+    {
+      "path": "Phasmophobia_Data/level8",
+      "bytes": 126178920,
+      "sha256": "20e8ca74fce69f4c0060794f19227f0aa5da4da5ceddc9a8dc356e271285b8c5"
+    },
+    {
+      "path": "Phasmophobia_Data/level8.resS",
+      "bytes": 152087424,
+      "sha256": "60034986cbe25660d3ff14fed82f2ce643f278bbc398ee277167ebf1bb4b57e1"
+    },
+    {
+      "path": "Phasmophobia_Data/level9",
+      "bytes": 88096160,
+      "sha256": "5bd228a674257f22e99b0d60faca5ad90b18da53390acf9033b0cf4d24b08a62"
+    },
+    {
+      "path": "Phasmophobia_Data/resources.assets",
+      "bytes": 1114041512,
+      "sha256": "a4263756baf02fe2cf40e1aa5a1c8b74ab487432ddc7bc3e719ed48d158334f5"
+    },
+    {
+      "path": "Phasmophobia_Data/resources.assets.resS",
+      "bytes": 5433861232,
+      "sha256": "b5a410f1edbf74d53134dad9db2ec18e88955cd2dc9aca8ad196366780c84acf"
+    },
+    {
+      "path": "Phasmophobia_Data/resources.resource",
+      "bytes": 26133792,
+      "sha256": "299a84cc5b7d9217c79aaa6200cffc6cac3a2fecb89d6646f76c7fa5998a5907"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets0.assets",
+      "bytes": 37249168,
+      "sha256": "a139fd040c45da3df43497a1dc9fdc343152d43a0effe583ad3b130b492830ae"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets0.assets.resS",
+      "bytes": 190980688,
+      "sha256": "f15f0b4487e6eb9a291ea8d5856fcbcfc7a531c08ab1eeeceb41d33376cfdd4c"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets1.assets",
+      "bytes": 204112,
+      "sha256": "946e79ba62712ba16e70121259a04b8411e27429371bbe517c667ac88729acab"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets1.assets.resS",
+      "bytes": 116049424,
+      "sha256": "dd224a44d60f3449edf2358c695d8e1822919f879d96abab6cf151c1f16d9c1a"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets1.resource",
+      "bytes": 1052864,
+      "sha256": "d47403d4b9ce487c92b94272e0b9f7138c84a6903083cc34add7dfca0abf1d51"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets10.assets",
+      "bytes": 108382152,
+      "sha256": "7e31d9a9ba0804d19901f151bb69c5a83d6a7ff192627da3b32abe30d7db7609"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets10.assets.resS",
+      "bytes": 2106150048,
+      "sha256": "d5bbf1d848be8317a4152ef71af146e538dea8e7167dd67f9a1014fcc804f5d0"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets10.resource",
+      "bytes": 11229184,
+      "sha256": "613c0b888cc69e6c435a5c7f5ff1da301a651ba251ceee3f11b979459a289c7f"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets11.assets",
+      "bytes": 31922884,
+      "sha256": "642af29895df086afafa42066999902607d2b3c0d4eb0c7aa7ab97e0fb69fa6d"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets11.assets.resS",
+      "bytes": 1563075104,
+      "sha256": "14e767b8604e65f4cc41ae2584af5786e99292913a1355462eb07f433609bdb3"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets11.resource",
+      "bytes": 928992,
+      "sha256": "0103c9740f8adb8cace71ee60101ca70d2598dabaf735624698bb4fee3c8ccb9"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets12.assets",
+      "bytes": 123439584,
+      "sha256": "0843fc6c9d5f04640edf42b55dcb707c6d4a78bf4af56f7fc39ab3f0fbac7e2d"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets12.assets.resS",
+      "bytes": 2351272352,
+      "sha256": "f6be71ba270275fa4105a1587d372e2f87aa9f95f99cd429fce670742bc38b7c"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets12.resource",
+      "bytes": 40714585,
+      "sha256": "136f6fb10355c3eb5dfb2f37ba1cc710d196746c2aaccd04b1e01d085c2fb299"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets13.assets",
+      "bytes": 59868148,
+      "sha256": "485b81f4be753f0985a08035cc8f792c78c07a6ec383356d01c5bd2a813ec6f2"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets13.assets.resS",
+      "bytes": 1481308128,
+      "sha256": "e341e469b53f887cdc1db88c6145670f4e7cc5419b2b0eaf0a10a27d2488e50b"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets13.resource",
+      "bytes": 3254208,
+      "sha256": "38a01a1887baee899e5b56966394eb48caeca5f8b910dc60848c13aea21d8123"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets14.assets",
+      "bytes": 12791396,
+      "sha256": "d9e0534b911f3cf50ff38f3a8ef614a69ce0b3ff65e9a34f81ab9341a5b3f814"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets14.assets.resS",
+      "bytes": 90214832,
+      "sha256": "778d710f497ba4b078d670f04af28f0909e81689ec84fed3561f44eb2169959d"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets15.assets",
+      "bytes": 48504944,
+      "sha256": "1f70002c18d335f58d36897c563e41ecc0e78680c79fad97fb16bd4325b4188d"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets15.assets.resS",
+      "bytes": 3343703280,
+      "sha256": "0f1a2d9452ddb654a36a077f42807701650616ccafe80e3c91979578a71ee689"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets15.resource",
+      "bytes": 9052896,
+      "sha256": "57963e37fedbc44afefb7e3c409556ce51962ccf1ce5b0fd33108787c63ea4e6"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets16.assets",
+      "bytes": 653420,
+      "sha256": "849d252d9c6de3e584ff046d9249a0152a49be1ec36220dd3a2724f70291a8cf"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets16.assets.resS",
+      "bytes": 83858112,
+      "sha256": "221b9baddaeab7226f102b3a596bec17a378b77f92cfc61bb0ea1c5ab25aab7b"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets16.resource",
+      "bytes": 340128,
+      "sha256": "775bd59142779221f3e7b47cb7640a8a8833a3c928f86de5a89d16a89ad04a4f"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets17.assets",
+      "bytes": 261148,
+      "sha256": "f56e6470f110276156b8ff12169d7cad62bfc6c9ad5b7de8100b57613602bdfe"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets17.assets.resS",
+      "bytes": 87408,
+      "sha256": "f9e59615f6bb7e5215e4324a9805454ed75da1b8762bc112898581c41ccd25d3"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets18.assets",
+      "bytes": 96128,
+      "sha256": "ec3e5075df203cb2f68c67ec9d2489d9ada23b3743f33b9a19f61664d1bcb8b4"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets18.assets.resS",
+      "bytes": 87408,
+      "sha256": "21fa4c864a7dedb21ecfeb5ed70605031dd3836e88c438a95400cf8597fb33cf"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets19.assets",
+      "bytes": 5950448,
+      "sha256": "9702a5998908405aff13b6a9331564dbed348ed4a036b7d3068eb112c846f2b8"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets19.assets.resS",
+      "bytes": 26731248,
+      "sha256": "ab8cc6025909c295e3765614d9365eb44acfe469bf2b39980f805bacf3995c82"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets19.resource",
+      "bytes": 2427072,
+      "sha256": "61fb59242c159b387a4fe7388179d942147957f7f0c075ff57a0c5d64e13226b"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets2.assets",
+      "bytes": 33354940,
+      "sha256": "f50c404c97a6c1ac2365774728b8931e3709a4dc921152d409275bd4ed4ffb8b"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets2.assets.resS",
+      "bytes": 2501103744,
+      "sha256": "9c9eab7337311609d471da6d6e08eee61d9dc57a6f1b8c8837b0dbacfbf70d88"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets2.resource",
+      "bytes": 1330112,
+      "sha256": "5777bef91edb4ff888ab827d7453475f8622dc012a675db81139f2c291d18652"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets20.assets",
+      "bytes": 1201096,
+      "sha256": "3f6f508fbd4f11aa1e30761a19f9ee5ff080c8c2cdf3aba53678728f073f9d15"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets20.assets.resS",
+      "bytes": 4659344,
+      "sha256": "744cbb7f619bcd48df848f2e0303b9d75275b2f1e6f38a639181fe281000ffca"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets20.resource",
+      "bytes": 2997632,
+      "sha256": "414e3cef9c8b7be6d25ca1e1368318de4d5a7fc70346915d5fcac2bbdce40c6d"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets21.assets",
+      "bytes": 2127760,
+      "sha256": "b37698c0856c6f55493d64933250a504ca87d5543232fbc197e70c273d93da1f"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets21.assets.resS",
+      "bytes": 39709296,
+      "sha256": "9a02357e85a60b1e56d783a8f10a6228440cdc4a7a45438b191e34055d8d2cc0"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets21.resource",
+      "bytes": 23548992,
+      "sha256": "9e704dd551caa1ebcc6877356befc6c41319c3dfe6d91ba24049ae92e6c543aa"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets22.assets",
+      "bytes": 1700068,
+      "sha256": "9399338e36ea185651446b402382ff62e7aeeca4d931d2511419af781dd06e94"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets22.assets.resS",
+      "bytes": 77748096,
+      "sha256": "48ce1d3add7f7e08a85b9ac50c90ee578ad4aae5ca63cf8b3bdb6fff9bfe00b3"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets22.resource",
+      "bytes": 4950464,
+      "sha256": "f800b004943103f3508e97057a1efef58da2722dccd90a0c2bf47b760aa3dc0d"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets23.assets",
+      "bytes": 5231144,
+      "sha256": "0de04d7d6f6ea5dda88522482ca446010cd1c7c692f49a7a83a4c4985ca18e10"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets23.assets.resS",
+      "bytes": 591568,
+      "sha256": "54d3054280def329bbe69a0fbadaf834d2a10e4649a09857e5c1318ee6d8d7ef"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets24.assets",
+      "bytes": 17192080,
+      "sha256": "93a9781baa1416f371e4ad76080f1aca4c83717b20ab96e3ec1f66acffc81e13"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets24.assets.resS",
+      "bytes": 480784,
+      "sha256": "872571ed480327af4229aeb657deae1d42ec244afb04d4eaa816567d4da6029e"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets25.assets",
+      "bytes": 121893,
+      "sha256": "14bdf44210c4729bd1b653839ed3f013ae574fc579dcb42adf7178e6c8d49e1e"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets26.assets",
+      "bytes": 1406736,
+      "sha256": "18c57751b78ca2785fcb6db103cfee8a85b16effc3b1cffea864c41ec0b4c91b"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets26.assets.resS",
+      "bytes": 66829440,
+      "sha256": "78cf2e13490bd4ccc8c0766b6403f250c99be4f4df936f5ed7d450fdba0e9819"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets26.resource",
+      "bytes": 10959872,
+      "sha256": "b42133b3d256f82696349095bfcb9a8aabaea130694f3b79ab5e03e099c740f1"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets27.assets",
+      "bytes": 1207304,
+      "sha256": "09c1024f1449bd6d3c543c60c1b049e1d4c819e5dbf6254f5e0148ded5ec712d"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets27.assets.resS",
+      "bytes": 4659216,
+      "sha256": "75513ffad4ca8d06b799623ac8ec654f091c2ea52c8d3bd638e37c5481cb67d2"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets27.resource",
+      "bytes": 1039872,
+      "sha256": "cc548c64110acb0fdf87029992a43480a10806c8f421bd17cb8b072f0f88b2e7"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets28.assets",
+      "bytes": 3905152,
+      "sha256": "0e91c8ac17c98a7b4639c7817d27c943da2e2eb8a0b8c23c451a19abc7e42744"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets28.assets.resS",
+      "bytes": 5875280,
+      "sha256": "928f6367c494e1bc84af3062251d093c78e228307e90bb158c89bab0a782446c"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets29.assets",
+      "bytes": 4292432,
+      "sha256": "e9299315fd78715a4da83c37c698a42e622781ee89425f342ca338cb6f165a54"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets29.assets.resS",
+      "bytes": 5723664,
+      "sha256": "48d964bdbc45f4af991b79f36b5ff94ebde5f7673a2095aa7e80de95de4b524a"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets3.assets",
+      "bytes": 14103208,
+      "sha256": "0b91dca8897b69e6da46d81653d66c8d411e6b8409071445a82281ba6dc1cc63"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets3.assets.resS",
+      "bytes": 739582016,
+      "sha256": "21fc814cece8cdd60f18fdfce56a08c33c409ef2fd1ab152349ceb9b6b72cc59"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets3.resource",
+      "bytes": 10770176,
+      "sha256": "2467f231ad3da2fd01b2546e0923ab2ada3ec7c72eb8f2f2434b8da0ee362bfe"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets30.assets",
+      "bytes": 86292,
+      "sha256": "ae5c7e27484857a1969573ab481d42fa565bcd8fb8bbe0951189a559a2620f54"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets31.assets",
+      "bytes": 1125808,
+      "sha256": "d6350aa9edf7011a6d57872b2998242aa9732d0bc011ea5abbc39b0eb6d529f9"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets31.assets.resS",
+      "bytes": 37786704,
+      "sha256": "2d9a9798e59534b37bc6499be336f0665b2934cf5919cbd57640686ac9d197fb"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets31.resource",
+      "bytes": 33305728,
+      "sha256": "2b5394ac42443f281f69cbdcea7044e269e10448fbdbc9d6b5bc0317c84083f3"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets32.assets",
+      "bytes": 2752,
+      "sha256": "5c7d9364f2d81b40c6df3629ca7014136866ec85a0f1ff185c7fd4c626418ce5"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets32.assets.resS",
+      "bytes": 21872,
+      "sha256": "a89a47a790337936f412f3b5451523c5d28f85e1aa00d6987c5d6339b7016073"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets33.assets",
+      "bytes": 18436384,
+      "sha256": "f9737bdeeb275d279323310e801f98e3ae2a523e5f2de736acce6cc1aea91fe7"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets33.assets.resS",
+      "bytes": 131232,
+      "sha256": "a331d7e235ab0d31436462a1e4c9fb94dfa292badda77bc9f4edefe68b8162d1"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets34.assets",
+      "bytes": 20284400,
+      "sha256": "a4c2f6766b9042b5194d230d8adcfcb0aa9cd5eb2dbbb13bb76ac45fb6230fe6"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets34.assets.resS",
+      "bytes": 53526992,
+      "sha256": "eb331ef28eecadc6a4ea5e10d2549ce66fc9b0daadd52ac02a396faa7a7e9bca"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets35.assets",
+      "bytes": 3977032,
+      "sha256": "85f7c9c545f99735df8bec616aa6552f2b6f6be75e65fb81600786e6f8012a45"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets35.assets.resS",
+      "bytes": 6073200,
+      "sha256": "2ff420dfeafd65b15b01ad363333c3e8d528acff2ec9f97980c4582093af02c1"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets36.assets",
+      "bytes": 722648,
+      "sha256": "fdb6ea3596b16926bec19f7ca5129e6a80250553956c581e27476b7b1211bcdf"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets36.assets.resS",
+      "bytes": 480784,
+      "sha256": "6cb42ae6b25656668d9fe3884fdde0068a7dad9cf1a802ed293bdb34be54899b"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets37.assets",
+      "bytes": 2573808,
+      "sha256": "b745bab35c6752a0a177d95afd18ebd9c0f29c056d6f6d6effdc38f5e306d395"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets37.assets.resS",
+      "bytes": 480784,
+      "sha256": "ad8ed4a895679bb0beaf132956a52aafe851c6d56ab3efa07753fe4dadaaeb0c"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets38.assets",
+      "bytes": 99764,
+      "sha256": "fe9ff5d40e0180db362c72edf5f10934becbe590526024d89586d47dbb3d991b"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets39.assets",
+      "bytes": 17899488,
+      "sha256": "e68f33fa37d6d7ecb61775ac5c330fd4b16410f1a056b56e2f81347aca60c54a"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets4.assets",
+      "bytes": 138839728,
+      "sha256": "480da2685b9edf3516777202a7bea33b1e67b34d1e7ab381ba35353a31667f07"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets4.assets.resS",
+      "bytes": 4137488544,
+      "sha256": "6b2aa0011b4c0ab8a468c91fc7f7a4c91125c89617638160db1431b3f52ae706"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets4.resource",
+      "bytes": 49992992,
+      "sha256": "12e36ea54cdf8304dbffad4ac0a73418d9055ad2799d1510d6d7b20480fd8e41"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets40.assets",
+      "bytes": 83792,
+      "sha256": "bdfecc9a817cd295675e08f80a224cc6d94c03bc204fe2c8a544e88fc427d1db"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets41.assets",
+      "bytes": 5642752,
+      "sha256": "866d71e9b25ebbaaeec68379aab48176cd12988b320b847ba33778975951df21"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets41.assets.resS",
+      "bytes": 131232,
+      "sha256": "a2aaa6cc668ac11f3dd82a861c5340a64fe816ecf04af2edd450b35e912a8bd6"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets42.assets",
+      "bytes": 10665792,
+      "sha256": "edc494e73eb525d433bdbbc6c4eb6cb3699173cb47fd697724ba38b0699ba4e9"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets42.assets.resS",
+      "bytes": 131232,
+      "sha256": "fa36eee4e999e9f0d75424e482965740647ec38afbea21318f62cbe111d9cc96"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets43.assets",
+      "bytes": 119446388,
+      "sha256": "b7db089737838def97171894a006f216fe25d588a6db4a3a11f4640f480eb445"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets43.assets.resS",
+      "bytes": 1795101328,
+      "sha256": "85a77325f676f266e138bca1b855479101bb091ed912ec6225c58fa5d5232e88"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets43.resource",
+      "bytes": 14697970,
+      "sha256": "34e18bb2c683b152cd1a2438de704e18c3f520d740f9e2f9727ea01e8859a687"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets44.assets",
+      "bytes": 85964,
+      "sha256": "1d1d1dd877dda3543b4d044ee9fb7c12df4be65a6ac51fdbf709462d6655eba8"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets45.assets",
+      "bytes": 5952720,
+      "sha256": "131021222780039a1aaa38cfd9515d3045c6de26bbff7b0301fadbeb19125ff6"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets45.assets.resS",
+      "bytes": 1529360,
+      "sha256": "da4abbd02dbd52aff2e70e5bde9dc5535b31813aa0954db9e2eb09fa051685de"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets46.assets",
+      "bytes": 12764184,
+      "sha256": "9503cea04c0c446bb030b4094281b8a56838085da3ec6b48d4f3d8e80137474a"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets46.assets.resS",
+      "bytes": 5723648,
+      "sha256": "4db84bc96c6e686948ac623a1f460b78307bd2cd55e4d94a55ea6966ebc3098d"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets47.assets",
+      "bytes": 19156576,
+      "sha256": "59caed328da9b29b74e5b43a5769f0461cb0a0ffc0e9acead46ceb96141ffb68"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets47.assets.resS",
+      "bytes": 1529360,
+      "sha256": "927b40f887f8c0cabd6f8f329a05d67fb8c28e2e3d6798497372df09d9166224"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets48.assets",
+      "bytes": 5746192,
+      "sha256": "485691e3f58b4ace8a92a1257f6dd8b6f8e2d7254cd613fd626b74e881dd3e1b"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets48.assets.resS",
+      "bytes": 8388656,
+      "sha256": "193a54ab30ce21395405c84db62d329fab14f7e8d312913461d082a2aeeffc09"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets49.assets",
+      "bytes": 18527184,
+      "sha256": "db61efb5e16306dd4dc84c58574a7eac2814212b3a21d2412dde23a24027acf1"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets49.assets.resS",
+      "bytes": 1529360,
+      "sha256": "7b82e318d73a680770b8ddae25056a58255223573e448444439f71a2c62bf2f9"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets5.assets",
+      "bytes": 61069112,
+      "sha256": "7bcd745cd63e44eb8e901f65d6cd37bee79f28ae8d796e800fdd6cde8ec01ecd"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets5.assets.resS",
+      "bytes": 2470417456,
+      "sha256": "d10b15f2e4ab445a908fb9edb38ed931601e1f9042725e36cd303c70b8b43a74"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets5.resource",
+      "bytes": 5265120,
+      "sha256": "8ae36322389953f1eda543ec7da1f271bc5d7c28d56fa69d8444aa689326e877"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets50.assets",
+      "bytes": 2650088,
+      "sha256": "e4b03ae1ee675d1fd436b6500dddc81d25207c118997e652edcb7d054c76105e"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets50.assets.resS",
+      "bytes": 1529360,
+      "sha256": "8efa2875b01a8e285f6c17c4c4189b65556652b379637d1423671b6898b7e68e"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets51.assets",
+      "bytes": 5365112,
+      "sha256": "b76d59d9127121822708d08e7d94b6f5f6e0bac96c165bdf70c9aaaabac664cd"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets51.assets.resS",
+      "bytes": 1529360,
+      "sha256": "41d75225c853af0eaed4d5e6be9fa0edcfd936c452d6e6abacd8963c5c602d9c"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets52.assets",
+      "bytes": 294560,
+      "sha256": "9fced9643fe66a16567bed1e54c802098e5300a989f29a10ec1605f1bc78cfe2"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets53.assets",
+      "bytes": 101960,
+      "sha256": "89b436360ca4cd8a411bbea0047030d62f3637e99a993a38978de31db756be64"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets54.assets",
+      "bytes": 5824072,
+      "sha256": "d76c74e2201f94d6d9db004160eb0476fcd8728683f9f6a14b62c9753c23d425"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets54.assets.resS",
+      "bytes": 78800,
+      "sha256": "f426fcec330a0dee2817df02d50813399bec4a9e1b3781010e19afd622dae112"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets55.assets",
+      "bytes": 2473296,
+      "sha256": "6c2d5f5ac6d07cca3aa7482e1fde983f77b59b320e013f97d4ca214990c688e3"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets55.assets.resS",
+      "bytes": 1529360,
+      "sha256": "002ba8a82bde497e783ffe21a51d6a3dd99b97e95d48c32b82d696213771534e"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets56.assets",
+      "bytes": 12046384,
+      "sha256": "e3fa51edf61b8382094790747a012537d4b824d9dd17b49016b2492839318110"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets56.assets.resS",
+      "bytes": 22500864,
+      "sha256": "9df0180477030fc5929cb13cd3d81471c19659102ee7b9bb00bf547ae7ac24e0"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets57.assets",
+      "bytes": 17005800,
+      "sha256": "3181110ec5ee53846225899096d1c641a71b1b5cd5f84e970caec88152b7cd7d"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets57.assets.resS",
+      "bytes": 581504,
+      "sha256": "d1b18a8b9cc6772dab35d006988758e72d149306d5fcd5f7c1d029127e3666e9"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets58.assets",
+      "bytes": 19100656,
+      "sha256": "0474e67835424adac8153ca9330661f810e9220b724a90c1bf82c369d1c9b136"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets58.assets.resS",
+      "bytes": 22500864,
+      "sha256": "e56caaea3655d071d96b09f4b6bbda02e3e221807d35db9c8c38777755e0fc0b"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets59.assets",
+      "bytes": 5969384,
+      "sha256": "a0b8e9e1e43eadb4e0a742e6f0bef21cc708acf655cd9ae192ff1aafb8498550"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets59.assets.resS",
+      "bytes": 5723664,
+      "sha256": "d59870fd7aea82fd413992c83bf4e2dbffbfa70424b03fcf470379de014cafed"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets6.assets",
+      "bytes": 40687376,
+      "sha256": "0cb820014b236de3b8ad66365a862201bdcbe15c7039b13472873f60fd2bb79d"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets6.assets.resS",
+      "bytes": 1360554544,
+      "sha256": "b80d2b455eee87e6a7007f96dcb8ed90f4e42a3e4ee458203feb14ebe5b4ebbb"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets6.resource",
+      "bytes": 561664,
+      "sha256": "09840f7d4dde42dfd78eb9111a25aee1af37f9d08be0570fa3cbb1268e19c02d"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets60.assets",
+      "bytes": 19417064,
+      "sha256": "7aa0da9ad21b22b83a80eec07d1d38f94decbf4084ce139d85a30e805b95fe7a"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets60.assets.resS",
+      "bytes": 343592368,
+      "sha256": "6dce30252dfa91d81bc07f3b4b54f9df9c582ad0932022336ee410e1d8264be7"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets60.resource",
+      "bytes": 9069408,
+      "sha256": "e97f052b11a6fd150078d583056a1afc9ce49b632f5a52e1de561e86b725e9a3"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets61.assets",
+      "bytes": 5309088,
+      "sha256": "56e11e13e9ce2beefe8bab3ee086e1b08dc0614c5364c48fa2dbd18b07b3d497"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets61.assets.resS",
+      "bytes": 32249488,
+      "sha256": "449d78bfc83a10294ad71033a37b545587ab8f563be76df4bde830960f28640f"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets61.resource",
+      "bytes": 2108416,
+      "sha256": "3fba59d097d462330637d0d16c052aa204a41fd9acbad0534e35c5d865137821"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets62.assets",
+      "bytes": 1629416,
+      "sha256": "d749bab14b36a9d3c8147345cde5b2fe3b14807b90faf0c012eed2e05caee261"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets62.assets.resS",
+      "bytes": 152512320,
+      "sha256": "d38243c164b0cca68459050d9464b4340851d34a2bfaa53ac00a532f9a74e82d"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets62.resource",
+      "bytes": 865536,
+      "sha256": "cbef3e27ef7378255e047355c00b88f9513638603748b3006c05fdf106deb119"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets63.assets",
+      "bytes": 4689256,
+      "sha256": "84b6709ae5035f35a5a5e8c2de318928fb5c294f9e16287dd78bc242d7120beb"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets63.assets.resS",
+      "bytes": 129025568,
+      "sha256": "71715611d4734b8eefe6c640e12a0da4e02ba106621346bcdf4c35f61f402cf3"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets63.resource",
+      "bytes": 2861056,
+      "sha256": "bab7c8568f02762564d071b54797270fcb24ecf25324a7940437c2f1483967cf"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets64.assets",
+      "bytes": 2245608,
+      "sha256": "94177a5d2154702e1791e2777638efd1085e29a665d8a927f97aa23671d041ac"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets64.assets.resS",
+      "bytes": 161184560,
+      "sha256": "d17e957fe24625b6f401613bb5b52aa4f237842855681bcc7e65cf73708ecc99"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets64.resource",
+      "bytes": 42990308,
+      "sha256": "1c5656890bc210abc2516583c96eee94ccbcfdc42222ff8ab5936a1cf4f64e15"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets65.assets",
+      "bytes": 1642240,
+      "sha256": "eae43daebcf8e21dd0f65d2764e81d187fea0132e949b0be470f4c52f258f8c8"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets65.assets.resS",
+      "bytes": 60873456,
+      "sha256": "c372e6da3d24f6715c88956084d04d4b8ac01ff3fe86757e220bc9392ad8c742"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets65.resource",
+      "bytes": 22624,
+      "sha256": "496aa7fe407ec1c13b16b0dedbab6d8f0dfb52950b450f2a18d02daaf55af984"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets66.assets",
+      "bytes": 107072,
+      "sha256": "663b285cc460bfa6a69d8385f40380430cf543dd216ae1b771bd04c1312bb65d"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets67.assets",
+      "bytes": 19719456,
+      "sha256": "036b8e47eeeea50ddd0ef76f6548ddec0ce89d30b7556c5df416faec2fdacca8"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets67.assets.resS",
+      "bytes": 480784,
+      "sha256": "0051f1d1e53328ebc91cf979d4eee196e77bb501ffa6c05706870b496129dda1"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets7.assets",
+      "bytes": 19647344,
+      "sha256": "9ffa8b444b23bcb705ab0978fe9439b02ee7cc3775ac58edc666eae0bee208b0"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets7.assets.resS",
+      "bytes": 567364848,
+      "sha256": "26942f37049bf3c399b7380ff005c9195e9ccf59d6ef417b5b4959a92176a0be"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets7.resource",
+      "bytes": 123456,
+      "sha256": "8b4dc45d9b508e1626607a71ffecb0ec74ccee9d55c0034be3f8f92b54fd21d9"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets8.assets",
+      "bytes": 46597268,
+      "sha256": "6cb6531b30ba8bb2bf8babbbe1f2044054dc7b43be497b8549e0d501ce34f26b"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets8.assets.resS",
+      "bytes": 650864064,
+      "sha256": "62a553bc141ddad69e9c04a5edd07407d4405bd5340e2680b5e7f679e27d9055"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets8.resource",
+      "bytes": 1717920,
+      "sha256": "178cb86e67d2430aaec9693f0c040002c1e757196e326317f3285e9411e1b8e3"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets9.assets",
+      "bytes": 45448680,
+      "sha256": "7e7cb5882cf1d088027bd1db1d908697e5539af1cabb8ba4e19b356825579856"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets9.assets.resS",
+      "bytes": 2411630592,
+      "sha256": "e838765cfe5103b6115620528bcd0ba0c023a9e764aa0ead371c669feb58f1ef"
+    },
+    {
+      "path": "Phasmophobia_Data/sharedassets9.resource",
+      "bytes": 12633856,
+      "sha256": "3f05879b59c67cd717b4db12c4775b5d39745caea4fe08e7552309f76426312d"
+    },
+    {
+      "path": "PhotonBridge.dll",
+      "bytes": 13180928,
+      "sha256": "2b2319cd52c500099049ecc226e0aa0e66c9230821fde4ee0b9a232b1ac3b248"
+    },
+    {
+      "path": "SteamOverlay64.dll",
+      "bytes": 117248,
+      "sha256": "f784b4b85b627c7ea541bd2a90c9fc6e9736a0731707c31265aa86fe684dc2df"
+    },
+    {
+      "path": "UnityCrashHandler64.exe",
+      "bytes": 1112768,
+      "sha256": "540f7500ecfdd9c79f516a9b56eb9f8f7077ecbf2b1c89ee83cc7b30699349e6"
+    },
+    {
+      "path": "UnityPlayer.dll",
+      "bytes": 30904240,
+      "sha256": "cd106e0f8a54c36ee741494ea2c557752890055220a825ce49b0fdf87d50c496"
+    },
+    {
+      "path": "baselib.dll",
+      "bytes": 417984,
+      "sha256": "3626165c4f367d75049883cfbc04f2ddd321fbcf6a2ee33115dcb4a4d8c0b868"
+    },
+    {
+      "path": "dlllist.txt",
+      "bytes": 71,
+      "sha256": "f095a9fb3202644bd5ad17337881523db615663f5c909b7d28fed6de0036e70e"
+    },
+    {
+      "path": "steam_appid.txt",
+      "bytes": 6,
+      "sha256": "44899fd9350dd43c89959b9d55d982759986b036b7c04fc6bd3860407e6c781c"
+    },
+    {
+      "path": "winmm.dll",
+      "bytes": 524288,
+      "sha256": "ba37009eef6c041bc6d0a271c13679fb9e14a005bd7e038cee596cd4064cf8b3"
+    }
+  ]
+}

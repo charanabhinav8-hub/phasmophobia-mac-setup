@@ -1,0 +1,198 @@
+{
+    "schemaVersion":  1,
+    "generatedAtUtc":  "2026-10-14T11:39:33.2697511Z",
+    "purpose":  "Windows readiness observations; launch and multiplayer require a manual test.",
+    "privacy":  "No account IDs, user/host names, absolute paths, raw log text, or network addresses.",
+    "currentCopyLaunchTested":  false,
+    "multiplayerTested":  false,
+    "host":  {
+                 "windows":  "Microsoft Windows 11 Home Single Language",
+                 "osBuild":  "26300",
+                 "is64BitOperatingSystem":  true,
+                 "ramGiB":  15.7,
+                 "gpu":  [
+                             {
+                                 "name":  "Intel(R) Iris(R) Xe Graphics",
+                                 "driverVersion":  "32.0.101.7085"
+                             },
+                             {
+                                 "name":  "NVIDIA GeForce RTX 4060 Laptop GPU",
+                                 "driverVersion":  "32.0.16.1742"
+                             }
+                         ]
+             },
+    "visualCpp2015OrLater":  {
+                                 "x64":  {
+                                             "installed":  true,
+                                             "version":  "v14.51.36247.00"
+                                         },
+                                 "x86":  {
+                                             "installed":  true,
+                                             "version":  "v14.51.36247.00"
+                                         }
+                             },
+    "game":  {
+                 "directoryPresent":  true,
+                 "files":  [
+                               {
+                                   "relativePath":  "Phasmophobia.exe",
+                                   "present":  true,
+                                   "bytes":  666624,
+                                   "architecture":  "x64"
+                               },
+                               {
+                                   "relativePath":  "UnityPlayer.dll",
+                                   "present":  true,
+                                   "bytes":  30904240,
+                                   "architecture":  "x64"
+                               },
+                               {
+                                   "relativePath":  "GameAssembly.dll",
+                                   "present":  true,
+                                   "bytes":  113075712,
+                                   "architecture":  "x64"
+                               },
+                               {
+                                   "relativePath":  "Phasmophobia_Data/globalgamemanagers",
+                                   "present":  true,
+                                   "bytes":  5622868,
+                                   "architecture":  null
+                               },
+                               {
+                                   "relativePath":  "Phasmophobia_Data/il2cpp_data/Metadata/global-metadata.dat",
+                                   "present":  true,
+                                   "bytes":  26863188,
+                                   "architecture":  null
+                               },
+                               {
+                                   "relativePath":  "Phasmophobia_Data/Plugins/x86_64/steam_api64.dll",
+                                   "present":  true,
+                                   "bytes":  298384,
+                                   "architecture":  "x64"
+                               }
+                           ],
+                 "unityEngineVersion":  "2022.3.40f1 (cbdda657d2f0)",
+                 "gameMenuVersion":  "Not measured; record the version shown in the game menu on each player computer.",
+                 "customLauncherPresent":  true,
+                 "customLauncherArchitecture":  "x86",
+                 "additionalFilesObserved":  [
+                                                 "Launcher.exe",
+                                                 "OnlineFix64.dll",
+                                                 "OnlineFix.ini",
+                                                 "PhotonBridge.dll",
+                                                 "winmm.dll"
+                                             ],
+                 "hashesRequested":  false,
+                 "hashScope":  "With -Detailed: only the game executable and Steam API DLL. Matching these alone does not establish a matching full game build."
+             },
+    "steam":  {
+                  "executableDetected":  true,
+                  "running":  false,
+                  "configuredLibrariesChecked":  2,
+                  "gameInstallationRecords":  [
+
+                                              ],
+                  "accountOwnershipAndAuthentication":  "Not inspected."
+              },
+    "historicalPlayerLog":  {
+                                "skipped":  false,
+                                "provenance":  "Historical Unity log for this Windows profile; its game-copy path is not inspected or exported.",
+                                "currentCopyProven":  false,
+                                "exists":  true,
+                                "sampledTailLines":  5000,
+                                "sizeBytes":  60967776,
+                                "modifiedAtUtc":  "2026-10-14T08:36:59.2185710Z",
+                                "historicalDirect3D11Observed":  true,
+                                "categories":  [
+                                                   {
+                                                       "category":  "NullReferenceException",
+                                                       "mentionsInTail":  4
+                                                   }
+                                               ],
+                                "sampledMethodNames":  [
+                                                           {
+                                                               "method":  "DG.Tweening.Core.TweenManager.Update",
+                                                               "mentionsInTail":  4
+                                                           },
+                                                           {
+                                                               "method":  "UnityEngine.SetupCoroutine.InvokeMoveNext",
+                                                               "mentionsInTail":  3
+                                                           },
+                                                           {
+                                                               "method":  "Photon.Pun.PhotonHandler.Dispatch",
+                                                               "mentionsInTail":  3
+                                                           },
+                                                           {
+                                                               "method":  "Photon.Pun.PhotonHandler.FixedUpdate",
+                                                               "mentionsInTail":  3
+                                                           },
+                                                           {
+                                                               "method":  "ExitGames.Client.Photon.PeerBase.DeserializeMessageAndCallback",
+                                                               "mentionsInTail":  2
+                                                           },
+                                                           {
+                                                               "method":  "Photon.Realtime.LoadBalancingClient.OnEvent",
+                                                               "mentionsInTail":  2
+                                                           },
+                                                           {
+                                                               "method":  "ExitGames.Client.Photon.EnetPeer.DispatchIncomingCommands",
+                                                               "mentionsInTail":  2
+                                                           },
+                                                           {
+                                                               "method":  "Photon.Pun.PhotonNetwork.ExecuteRpc",
+                                                               "mentionsInTail":  2
+                                                           },
+                                                           {
+                                                               "method":  "Photon.Pun.PhotonNetwork.OnEvent",
+                                                               "mentionsInTail":  2
+                                                           },
+                                                           {
+                                                               "method":  "System.Reflection.RuntimeMethodInfo.Invoke",
+                                                               "mentionsInTail":  2
+                                                           },
+                                                           {
+                                                               "method":  "System.Reflection.MethodBase.Invoke",
+                                                               "mentionsInTail":  2
+                                                           },
+                                                           {
+                                                               "method":  "ExitGames.Client.Photon.PhotonPeer.DispatchIncomingCommands",
+                                                               "mentionsInTail":  2
+                                                           }
+                                                       ]
+                            },
+    "findings":  [
+                     {
+                         "code":  "MODIFIED_MULTIPLAYER_COMPONENTS",
+                         "severity":  "warning",
+                         "message":  "This copy contains OnlineFix components. Compatibility with the official Steam service, other clients, and a Mac compatibility layer has not been established."
+                     },
+                     {
+                         "code":  "MIXED_ARCHITECTURES",
+                         "severity":  "info",
+                         "message":  "The custom launcher is x86 while the game is x64. A Mac compatibility engine would need working 32-bit and 64-bit Windows support."
+                     },
+                     {
+                         "code":  "STEAM_NOT_RUNNING",
+                         "severity":  "info",
+                         "message":  "Steam is installed but was not running when checked. Start Steam and sign in before a Steam multiplayer test."
+                     },
+                     {
+                         "code":  "NO_STEAM_GAME_INSTALL_RECORD",
+                         "severity":  "warning",
+                         "message":  "No Phasmophobia installation record was found in the configured Steam libraries. This does not determine account ownership; an official Steam install is the clearest reference for testing."
+                     },
+                     {
+                         "code":  "HISTORICAL_LOG_ERRORS",
+                         "severity":  "warning",
+                         "message":  "The sampled end of the existing Unity log contains errors. Counts describe an earlier run and may not describe the current copy or an active problem."
+                     }
+                 ],
+    "nextManualChecks":  [
+                             "Record the game-menu version on every computer; use the same game version, branch, and multiplayer backend.",
+                             "For an official installation, start Steam, sign in, and launch the game from its library.",
+                             "Check that the lobby opens, then test a private lobby join with the intended Windows and Mac players.",
+                             "Verify microphone permission, selected input device, push-to-talk, and proximity/radio voice.",
+                             "Complete one short contract, return to the lobby, and reconnect before relying on the setup."
+                         ],
+    "result":  "manual_launch_and_multiplayer_test_required"
+}
